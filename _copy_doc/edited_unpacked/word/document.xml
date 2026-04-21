@@ -1,0 +1,5145 @@
+<?xml version="1.0" encoding="UTF-8"?><w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16sdtfl w16du wp14">
+  <w:body>
+    <w:p w14:paraId="4D5341F9" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="2400" w:after="240"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="44"/>
+          <w:szCs w:val="44"/>
+        </w:rPr>
+        <w:t>Parasolv Website — Site Copy</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0E16BF48" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+        </w:rPr>
+        <w:t>All text from the current mockup, organized by page.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="19B4EE1F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="2400"/>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+        </w:rPr>
+        <w:t>Edit directly in this document, then paste the updated version back.</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="4D1FE13F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:jc w:val="center"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="999999"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Generated 2026-04-21</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5B10FA63" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00E460D7">
+      <w:pPr>
+        <w:pageBreakBefore/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="35629343" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Global elements</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="21B84F61" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Text that appears on every page.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="36C9EE24" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Brand wordmark</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7BC1B3DD" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      
+      <w:r>
+        <w:t>parasolv</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="511E2EDA" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Header navigation</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0DF84DEB" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Home</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="09D1F95B" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Features</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5757C863" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Pricing</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5DAF5DDF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      
+      <w:r>
+        <w:t>Quickstart</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="2BB12109" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Docs</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="454D14C2" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>CTA button: Start free trial</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3922430C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Footer — tagline under logo</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="727304C3" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Shadow analysis, solar studies, and design envelopes for SketchUp — made by designers, for designers.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="418AB223" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Footer — column: Product</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="00E0C7F4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Features</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4A6389F2" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Pricing</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="67AFEC7E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      
+      <w:r>
+        <w:t>Quickstart</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="6310926F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Documentation</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0DCEA569" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Footer — column: Company</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4BAC7500" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>About</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="32116242" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Contact</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5FF34EF9" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Blog</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="14298DDC" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Footer — column: Legal</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1933FDE0" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Terms</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7A9F42C1" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Privacy</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4AD0D1C9" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>EULA</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="480CE69C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Footer — bottom row</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="31F7B94D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>© 2026 Parasolv. All rights reserved.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="078C9585" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Payments by Lemon Squeezy.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3750BAED" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00E460D7">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="6" w:space="1" w:color="CCCCCC"/>
+        </w:pBdr>
+        <w:spacing w:before="240" w:after="240"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="2F1FE500" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00E460D7">
+      <w:pPr>
+        <w:pageBreakBefore/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="75A0EEBD" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Page: Landing (index.html)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="39F3BC46" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Hero</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="568AADC2" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow tag</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2138CDA3" w14:textId="2B9E81FE" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Windows + MacOS</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="1B3597BF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Headline</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="720B3055" w14:textId="55C5B7E0" w:rsidR="00E460D7" w:rsidRDefault="00BE737F">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Powerful shadow analysis toolbox for SketchUp.</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="324A24B1" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Lede</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="616E5EDC" w14:textId="0E991505" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Parasolv is a full suite of tools to generate fast, accurate, an visually compelling shadow studies, all without ever leaving SketchUp.  Built for professionals, but with a simple interface anyone can use.</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="6239FF7A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>CTA buttons</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="660AD830" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Primary: Start free trial</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4914A6B8" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Secondary: See features</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="384CAF4B" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Hero image caption</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="70EDB0E7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Screenshot: Parasolv Advanced Mode with shadow-fan overlay on a mid-rise massing</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="69A873E5" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Social-proof strip</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7E72FA45" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1BF8205B" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Trusted in practice</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="18FDFD21" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Logo placeholders (4 slots)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="62E4AC0F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Studio · Placeholder</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="79A9A9D1" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Practice · Placeholder</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7CE4A61E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Consultancy · Placeholder</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6AC5BC04" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Firm · Placeholder</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3ECACDAE" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Feature grid — &#x201C;What you get&#x201D;</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0541592B" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Section eyebrow / heading</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="370668A4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>What you get</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0BE920E4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Every tool a shadow study needs, right inside SketchUp.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="099F7EFB" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Card 1 — Shadow Fan</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="46D726D8" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Sweep the sun&#x2019;s path and visualize shadow envelopes across any day, season, or full year — directly on the model.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="46FA0722" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Card 2 — Receptor Analysis</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="00F074F4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Classify entities as sources or receptors and measure exposure with quantifiable outputs, not eyeballed screenshots.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="23C360B3" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Card 3 — PV Assessment</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="19618561" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Evaluate photovoltaic potential on any surface using the same solar model as your shadow studies.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4D468AC1" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>Card 4 — Batch Processing</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2645EC43" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Run iterative studies overnight. Compare dozens of massing options without babysitting the tool.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="638595E9" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Card 5 — Design Envelopes</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="16D5081A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Generate maximum-buildable volumes that respect shadow constraints on neighboring sites.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="05A49BF9" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Card 6 — Scenario Compare</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="170060B9" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Layer baseline against variants. Export to CSV for reports, planning submissions, and client reviews.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="048B54B4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Storytelling row 1 — Shadow Fan</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="703D3968" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="77D03793" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Shadow Fan</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="09F0F8B8" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Heading</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7C82571F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>See the whole day in one glance.</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="2F554DE1" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Body</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="76996FE6" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>The Shadow Fan visualization overlays shadow positions across a chosen time range onto your model. Check solar access on a public space, sun-hour compliance on a neighboring window, or seasonal exposure on a PV array — without rendering a single frame.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7766CF79" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>CTA</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3E325E27" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Explore Shadow Fan</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2D52C820" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Image caption</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5BD431D0" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Screenshot: Shadow Fan across Dec 21 showing hourly envelope bands</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7687EF9F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Storytelling row 2 — Receptors &amp; Results</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="580098A7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="29ED1C1B" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Receptors &amp; Results</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="085BFEB2" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Heading</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4C469FB2" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Data you can put in a report.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4C694FDF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Body</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7F2A008A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Tag neighboring buildings, open space, or individual facades as receptors. Parasolv computes sun-hours, shadow-hours, and overshadowing metrics — then exports clean CSVs for planning submissions.</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="0963A8DE" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>CTA</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4F521481" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>See result outputs</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1AE97A1F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Image caption</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="09FEC843" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Screenshot: Receptor panel with per-receptor sun-hour breakdown + gradient overlay</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0E557362" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Storytelling row 3 — Batch &amp; Envelope</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7F381D30" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="26C4A92F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Batch &amp; Envelope</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="619B3588" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Heading</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1A618ADC" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:lastRenderedPageBreak/>
+        <w:t>For when one study isn&#x2019;t enough.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2B18D557" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Body</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="72BD4604" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>The Studio tier adds batch processing and design-envelope generation — so you can explore dozens of massing options, or back-solve the largest building the site can support without overshadowing its neighbors.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6233F85E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>CTA</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7ECC2428" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Studio workflows</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="789415F4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Image caption</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="641B228E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Screenshot: Design envelope solid generated from shadow constraints</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0009979A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Closing CTA</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0B09A5A6" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Heading</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0C24755A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Ready to try it?</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6DB6A69F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Body</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="132320DD" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Download the plugin, run a shadow study on your own model, and decide from there. No card required for the free Lite tier.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="45B06C5E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Buttons</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1C3A20D3" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Primary: See pricing</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7D0A0DD9" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Secondary: Quickstart guide</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="05C23DD0" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00E460D7">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="6" w:space="1" w:color="CCCCCC"/>
+        </w:pBdr>
+        <w:spacing w:before="240" w:after="240"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="07CA1155" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00E460D7">
+      <w:pPr>
+        <w:pageBreakBefore/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="6E07A944" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Page: Features (features.html)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="36F5892B" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Page header</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="049C0D04" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="71AC167C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Features</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="71E7908D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Headline</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5BA154A7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Everything Parasolv does.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="57396601" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Lede</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="500B1E50" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Each module below corresponds to a panel in the plugin. Tier badges show where each capability lives.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5596B6C2" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Module 1 — Classifier &amp; Analysis Settings</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="11EE0633" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="73707E35" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Setup</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3DA6B37C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Heading</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3F407C2E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Classifier &amp; Analysis Settings</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="27E8CC46" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Body</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="28F171EC" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Tag model entities as sources (shadow casters) or receptors (the surfaces you care about). Configure location, date ranges, and grid resolution once — Parasolv remembers it for the rest of your study.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="51AC3211" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Tier badges</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="56098D04" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Lite · Pro · Studio</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4773C04C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Module 2 — Shadow Fan &amp; Graphics</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3EA50863" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5C3FA391" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Shadow Analysis</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1072D735" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Heading</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="20B6C474" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Shadow Fan &amp; Graphics</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1E9B5276" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Body</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="47B734CF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>The core of the plugin. Sweep the sun across any day or season and see the shadow envelope live on your model. Tune gradient, opacity, and banding from the Graphics panel without leaving the workflow.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5A71CF07" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Tier badges</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5B20139C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Pro · Studio</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="789D403A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Module 3 — PV Assessment</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="43B5FB3D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="37742AE7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Solar Impact</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7E9EAE4A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>Heading</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="28914CF0" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>PV Assessment</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="694156FF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Body</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0AB35D3D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Evaluate photovoltaic potential on any face using the same solar model as your shadow studies. Great for early-stage feasibility on roofs, facades, and canopies.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1E0CB684" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Tier badges</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="68C2B91F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Pro · Studio</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1144CBEE" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Module 4 — Batch &amp; Mask Mode</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="175031FF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7A9AB084" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Processing</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1B72B097" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Heading</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="19ED556B" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Batch &amp; Mask Mode</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="40F2A511" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Body</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="37B343AF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Batch runs a queue of configurations end-to-end. Mask Mode hides non-essential geometry during analysis to speed up heavy models. Studio users can schedule batches to run overnight.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7338677D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Tier badges</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="55E71B39" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Pro (Mask only) · Studio (full Batch)</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="1E0C3A71" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Module 5 — Design Envelope Generation</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="562AC7A2" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="42396FBD" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Design Tools</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="30806FFE" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Heading</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4A551DF1" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Design Envelope Generation</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3E6A8902" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Body</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1816DF21" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Back-solve the largest volume a site can support without overshadowing defined receptors. Export the envelope as a SketchUp group for massing studies and feasibility reports.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="407AC0D1" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Tier badges</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4043E4DF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Studio</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="07B01BC7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Module 6 — Scenario Management &amp; CSV Export</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0A264FD4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7AD123C5" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Results</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="44563FC4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Heading</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3BD91E24" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Scenario Management &amp; CSV Export</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1366200D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Body</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4FE84573" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Layer variants on top of a baseline. Compare receptor-level metrics at a glance, then export structured CSVs ready for planning submissions, compliance reports, or client markdown.</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="1CBD257F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>Tier badges</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1F542F03" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Pro (up to 5) · Studio (unlimited)</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="7B9C5091" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Closing CTA</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="36CBB9A5" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Heading</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="409DC93B" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Pick the tier that fits your practice.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="003DB18E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Body</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="59D1553F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Lite is free. Pro and Studio include a 14-day trial.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4EC048B9" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Button</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="41B2CC94" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>See pricing</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="035F2EC6" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00E460D7">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="6" w:space="1" w:color="CCCCCC"/>
+        </w:pBdr>
+        <w:spacing w:before="240" w:after="240"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="75920FB5" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00E460D7">
+      <w:pPr>
+        <w:pageBreakBefore/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="7F719247" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Page: Pricing (pricing.html)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4305B3FD" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Page header</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4CD6D709" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="69046436" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Pricing</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="688553B1" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Headline</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5DE8929A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>One tool, three ways to use it.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3E4D0DF7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Lede</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2D1D856A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Prices shown in USD. Cancel anytime. Payments processed by Lemon Squeezy — VAT and sales tax handled for you.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6093EE53" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Disclaimer</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="262AD68C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Indicative pricing — final figures confirmed at checkout.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="54757E04" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Tier 1 — Lite</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3A705265" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Audience</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0215B899" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Architects &amp; students</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="16577923" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Name / price</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="34CEE5FF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Lite — $0 / forever</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="005A2D8D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Tagline</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1E921965" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Get a feel for the plugin on real projects. No card required.</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="65E500BF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Features included</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1D5A8B70" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Classifier &amp; Setup</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="35A3F851" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Single-day shadow study</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6E7A10D7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Lite UI mode</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5BE50B01" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>1 scenario, in-viewport only</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7CE40BC9" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Features excluded</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="53A529D6" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>No CSV export</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0242CE7D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>No PV, batch, or envelope</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="57F8396C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>CTA</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="68BFBDEC" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Download free</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1EE607D7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Tier 2 — Pro (featured)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="79C7754E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Featured pill</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="73EC25FF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Most popular</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="457AA0CC" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Audience</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0C778103" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Practicing architects &amp; urban designers</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5F9D0DD4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>Name / price</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="272871A2" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Pro — $29 / month</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="559C11BE" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Tagline</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5F618136" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Or $290/year — save two months. 14-day free trial.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3AA6D0A1" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Features included</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2C9E8C6D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Everything in Lite</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="597E0691" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Full Shadow Fan &amp; Graphics</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="52CEC1C4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>PV Assessment</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="60EC54EB" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Mask Mode</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6582979B" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Up to 5 scenarios</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5DFF0626" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>CSV export</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1B9BCEC7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Advanced UI mode</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="43585C25" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Email support</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2FD3C598" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>CTA</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6A501D00" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Start 14-day trial</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1E757F77" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Tier 3 — Studio</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1CA7B261" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Audience</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6872E4EA" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Consultants &amp; studios</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1AC4CF42" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Name / price</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0B4FE02F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Studio — $79 / month</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="12583050" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Tagline</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5C421A3E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Or $790/year. 14-day free trial.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6EF5AAAA" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Features included</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="61A13C68" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Everything in Pro</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="01975D58" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Batch Processing</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="26E49A3D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Design Envelope generation</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2AFDE284" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Unlimited scenarios</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="68E7A473" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Scenario comparison tools</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="199CC4B5" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Methodology &amp; compliance docs</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2E33055C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Priority support</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="76615756" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Studio quickstart track</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="0F6071EF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>CTA</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="01FFA2B0" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Start 14-day trial</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4710EAA4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Comparison table headers</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6F0671F7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Feature · Lite · Pro · Studio</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="654F0026" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Rows (feature name)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="22C58F8B" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Classifier &amp; Setup</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="102083E4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Single-day shadow study</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4A7084BD" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Full Shadow Fan (any range)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="59A1285E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:lastRenderedPageBreak/>
+        <w:t>Graphics / gradient overlays</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="16967298" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>PV Assessment</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="24B6FFE5" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Mask Mode</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1B83C365" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>CSV export</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="28EBACF2" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Scenarios — Lite: 1, Pro: 5, Studio: Unlimited</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="74567CAE" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Batch Processing</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="34FA04F7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Design Envelope generation</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="769D44FB" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Scenario comparison — Pro: Manual, Studio: Built-in</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0A6C3571" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Support — Lite: Community, Pro: Email, Studio: Priority</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="744AE506" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>FAQ section</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="78410120" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow / Heading</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="70D522D5" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>FAQ</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3BA6291C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Common questions.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7083E804" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Q1</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0F68E149" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Which SketchUp version does Parasolv support?</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="45975C80" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>A1</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5AC47011" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>SketchUp 2026 and later on both Windows and macOS (Apple Silicon). Older versions are not supported.</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="3D0C26A6" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Q2</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="16338C6B" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>How does billing work?</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="529E9DBE" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>A2</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2A1656B2" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Subscriptions are billed monthly or annually via Lemon Squeezy. Cancel anytime from the customer portal — you keep access until the end of the billing period.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3608A7E2" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Q3</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="051D4BF1" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Can I use one license on multiple machines?</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4FF710ED" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>A3</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="54512CA9" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Each subscription covers up to two machines (e.g. office desktop + laptop) for the same user. Team plans are available — contact us.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="492B440F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Q4</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1BDEC62C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Is there a student or academic discount?</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4C654DD7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>A4</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6568125C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>The Lite tier is free for everyone. Academic discounts on Pro and Studio are available on request with proof of enrollment.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="64954AC8" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Q5</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4E62C20F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Do you offer refunds?</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3DBB8667" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>A5</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5E1FE5CC" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>14-day free trials on Pro and Studio let you evaluate before paying. If something goes wrong after that, get in touch — we&#x2019;ll sort it out.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="08BFAEC9" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Q6</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3CA1092C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:lastRenderedPageBreak/>
+        <w:t>Can I upgrade or downgrade?</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="08E9A0A6" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>A6</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="05C4B49C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Yes, at any time. Pro-rata adjustments are handled automatically by Lemon Squeezy.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="66516FE7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00E460D7">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="6" w:space="1" w:color="CCCCCC"/>
+        </w:pBdr>
+        <w:spacing w:before="240" w:after="240"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5D3EE9B3" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00E460D7">
+      <w:pPr>
+        <w:pageBreakBefore/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="519870BC" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Page: Quickstart (quickstart.html)</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="6029CE09" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Page header</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3ED22522" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1EE7587A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      
+      <w:r>
+        <w:t>Quickstart</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="2C3A12F8" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Headline</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4AF674FB" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>From install to first study in 15 minutes.</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="6BF2A68F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Lede</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="56ECB2EF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Pick the track that fits you. Architect is written for anyone comfortable in SketchUp. Studio dives deeper into methodology and advanced workflows.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="519965BF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Track toggle labels</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="04E131F3" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Architect track</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4E45D76C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Studio track</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="68662126" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Architect track</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3112A39E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Step 01</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="331BC50F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Install the plugin</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4B639010" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Download Parasolv from your account page, double-click the .rbz, and restart SketchUp. The Parasolv panel appears in the Extensions menu.</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="459A97D2" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Screenshot: SketchUp extensions menu with Parasolv highlighted</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="56BF1D3E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Step 02</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7CD1B813" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Set your location &amp; date</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="148FA7F7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Open the Setup panel, confirm the model location, and choose the day (or range) you want to analyze. Parasolv uses SketchUp&#x2019;s native geolocation so you don&#x2019;t need to re-enter it.</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="662B7A55" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Screenshot: Setup panel with location + date selector</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2D00F349" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Step 03</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1881FA49" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Classify your model</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4D6B6FED" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Tag buildings and obstructions as sources, and the surfaces you care about (neighboring facades, public space, gardens) as receptors. Think of it as telling the plugin &#x201C;what&#x2019;s casting shadow&#x201D; vs. &#x201C;what you&#x2019;re measuring.&#x201D;</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="2DB1B3C9" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Screenshot: Classifier panel with entity list + coloured preview</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="154AF3F3" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Step 04</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="777D6127" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Run your first study</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="200517FF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Hit Run. Shadow Fan overlays appear on the model within seconds for a single day; a full-year study takes a minute or two depending on receptor count.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7E764ACE" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>Screenshot: Model with live Shadow Fan overlay</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1B20B161" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Step 05</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5041A97C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Read the results</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="020FCC52" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>The Results panel lists each receptor with sun-hours and shadow-hours. The gradient overlay on the model shows where exposure is highest and lowest at a glance.</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="331E2A33" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Screenshot: Results panel with receptor table + gradient legend</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2745BA27" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Step 06</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3903298F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Export for your report</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="495E200D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Pro and Studio tiers export CSVs ready for planning submissions or client decks. Lite users can screenshot the viewport overlay.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3B00690A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Screenshot: CSV preview with per-receptor metrics</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="19CA8811" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Studio track</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="09D2A914" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Step 01</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="71AD20E1" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Grid resolution &amp; sampling</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="19D355EC" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Studio users should tune grid resolution before running compliance studies. As a rule of thumb: 0.25 m for facade receptors where local planning guidance requires sub-metre accuracy, 1.0 m for open-space studies. See the methodology reference for per-jurisdiction notes.</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="5B93EDB7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Screenshot: Analysis Settings with grid resolution + timestep controls</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="55135B0C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Step 02</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6298C5D5" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Batch configuration</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="19EA5A7E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Queue multiple massing variants in one run. Each entry can override the source set, date range, or envelope constraints. Batches serialize to JSON — check them into your project repo for reproducibility.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4E9E4CA5" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Screenshot: Batch configuration JSON with queued scenarios</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="29EF2A9D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Step 03</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="57428640" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Design Envelope workflow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2E252E73" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Define the shadow constraint (e.g. &#x201C;≥ 2 hrs sun on Mar 21, 10:00–16:00, on this facade&#x201D;), then generate the maximum-buildable volume that satisfies it. The result is a SketchUp solid you can union with your site boundary for developable-area studies.</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="6373CC83" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Screenshot: Envelope generation with constraint dialog</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6C79BC84" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Step 04</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1542089F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Scenario comparison</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="21516832" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Layer any number of scenarios over a baseline. The comparison view highlights deltas per receptor — useful for planning appeals where you need to demonstrate that a scheme does not degrade existing conditions.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4B1714FD" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Screenshot: Scenario diff view with +/- deltas per receptor</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4F8D0B0C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Step 05</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="70ED9CBB" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      </w:pPr>
+      <w:r>
+        <w:lastRenderedPageBreak/>
+        <w:t>PV assessment methodology</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="66A295D0" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>PV output estimates use clear-sky irradiance combined with the Parasolv solar model. Calibrate against TMY data for your region if you need compliance-grade numbers; otherwise the default profile is good for feasibility-stage estimates.</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="065A2B5A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Screenshot: PV surface heatmap with irradiance legend</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4C3DC68E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Step 06</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="78F70B87" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading3"/>
+      </w:pPr>
+      <w:r>
+        <w:t>CSV schema &amp; automation</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="388220FF" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Exported CSVs follow a documented schema: receptor_id, date, sun_hours, shadow_hours, met_criteria. Hook them into Excel, Grasshopper, or Python for bespoke reporting pipelines.</w:t>
+      </w:r>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="7338A04A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:i/>
+          <w:iCs/>
+          <w:color w:val="666666"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Screenshot: CSV schema reference with column definitions</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5E6A25ED" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Closing CTA</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="293DD66E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Heading</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="445811ED" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Stuck somewhere?</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="01B49462" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Body</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="07AD1A91" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Full documentation is available — or reach out if you&#x2019;re on Pro or Studio.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="16E0F18A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Buttons</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4E9F02D4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Secondary: Read the docs</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="453C6974" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Primary: Contact support</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="39A64E9F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00E460D7">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="6" w:space="1" w:color="CCCCCC"/>
+        </w:pBdr>
+        <w:spacing w:before="240" w:after="240"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="3C230E8A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00E460D7">
+      <w:pPr>
+        <w:pageBreakBefore/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="27F1A9BD" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Page: Docs (docs.html)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7D0976D2" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Page header</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6F205B36" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="47580973" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Documentation</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="176F4ABC" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Headline</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2392CC7D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Everything you need to master Parasolv.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="51BBA81B" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Lede</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="272D05B4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Reference material, methodology notes, and troubleshooting guides. Full docs are under development — the sections below sketch the structure.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="05408178" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Doc cards (6)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="16B3791E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Card 1</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7E3A20ED" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Getting started — Install &amp; first study</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="170E2AAC" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Platform requirements, plugin installation, account setup, and a walkthrough of your first shadow analysis.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1587C4A8" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Button: Read</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="14900F0A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Card 2</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="759DBA56" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Reference — Panel by panel</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3F026EED" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Every control in every panel — Setup, Classifier, Shadow Fan, Graphics, PV, Batch, Envelope, Results.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5B665356" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Button: Coming soon</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7F97F0E4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Card 3</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="03015531" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Methodology — The solar model</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="652DDDBD" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>How Parasolv computes shadow geometry and irradiance. Includes calibration notes and jurisdiction-specific guidance.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2BA08A8F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Button: Coming soon</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="48F053D6" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Card 4</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="46CD01F2" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Workflows — Compliance studies</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="41D08C83" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>BRE 209, APP0301, and local planning guidance — how to structure a Parasolv study that satisfies each standard.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="78AB5122" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Button: Coming soon</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5F54737F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Card 5</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="45DFA993" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Reference — CSV schema</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="30794F75" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Column-by-column definition of exported CSVs, with Python and Excel examples.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="38EA1A4A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Button: Coming soon</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="07FF5A1C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:lastRenderedPageBreak/>
+        <w:t>Card 6</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6A3093C0" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Troubleshooting — Common issues</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="64A113B3" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Model performance, platform-specific quirks, plugin logs, and how to file an effective bug report.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="127DA9E6" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Button: Coming soon</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="79EB974C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Closing CTA</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5E182808" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Heading</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5FC4AA9F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Can&#x2019;t find what you need?</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="16D28F4C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Body</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="26D021EA" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Email support is included on Pro. Priority support on Studio.</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="19B1D68B" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Button</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="56803F61" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Contact support</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="110C3E83" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00E460D7">
+      <w:pPr>
+        <w:pBdr>
+          <w:bottom w:val="single" w:sz="6" w:space="1" w:color="CCCCCC"/>
+        </w:pBdr>
+        <w:spacing w:before="240" w:after="240"/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="1DC6EC00" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00E460D7">
+      <w:pPr>
+        <w:pageBreakBefore/>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="73588F9E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading1"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Page: Checkout mock (checkout.html)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="278A9583" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Page background</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0A9698D6" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Eyebrow</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4E71FFD7" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Checkout</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0670BA7E" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Headline</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2DAF3004" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>You&#x2019;ve selected [TIER].</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="34D1E4CB" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Body</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="73430354" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>This is a mock of the Lemon Squeezy checkout overlay. In production, clicking a pricing CTA opens the overlay on top of the pricing page — this static page shows what that experience will look like.</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="6CE3A792" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+      </w:pPr>
+      <w:r>
+        <w:t>Lemon Squeezy overlay panel</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="74A08831" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Brand line</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4D95BF41" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>🍋 Lemon Squeezy secure checkout</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="04D6F968" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Panel title (dynamic)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="462AC79F" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Lite: Parasolv Lite — Free download</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="72390B7B" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Pro: Parasolv Pro — Monthly</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="117A5D08" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Studio: Parasolv Studio — Monthly</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1E4FAC63" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Subtitle</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="71951972" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>14-day free trial. Cancel anytime.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7FFE0F30" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Line items</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5099B07A" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Parasolv [Tier] subscription — [Price]</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="331424E4" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>VAT (handled by Lemon Squeezy) — Calculated at next step</w:t>
+      </w:r>
+      
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="26D8203D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Due today — $0.00</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4C597CBB" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Form field labels</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="2012F118" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Email</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="11B7F36C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Card number</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="59023792" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Expiry</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="451AC4DD" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>CVC</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2EFF308C" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Country</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0EF631AC" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Pay button (dynamic)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="15DC398D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Lite: Download free</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3C989430" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Pro / Studio: Start free trial</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4479D798" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:before="160" w:after="60"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="0078D4"/>
+          <w:sz w:val="18"/>
+          <w:szCs w:val="18"/>
+        </w:rPr>
+        <w:t>Fine print</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1150BA1D" w14:textId="77777777" w:rsidR="00E460D7" w:rsidRDefault="00000000">
+      <w:pPr>
+        <w:spacing w:after="120"/>
+      </w:pPr>
+      <w:r>
+        <w:t>You won&#x2019;t be charged until your trial ends. Powered by Lemon Squeezy — merchant of record for Parasolv Ltd.</w:t>
+      </w:r>
+    </w:p>
+    <w:sectPr w:rsidR="00E460D7">
+      <w:pgSz w:w="12240" w:h="15840"/>
+      <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="708" w:footer="708" w:gutter="0"/>
+      <w:cols w:space="720"/>
+      <w:docGrid w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
