@@ -1,0 +1,434 @@
+Parasolv Website — Site Copy
+All text from the current mockup, organized by page.
+Edit directly in this document, then paste the updated version back.
+Generated 2026-04-21
+Global elements
+Text that appears on every page.
+Brand wordmark
+parasolv
+Header navigation
+Home
+Features
+Pricing
+Quickstart
+Docs
+CTA button: Start free trial
+Footer — tagline under logo
+The most powerful shadow analysis platform for SketchUp.
+Footer — column: Product
+Features
+Pricing
+Quickstart
+Documentation
+Footer — column: Company
+About
+Contact
+Blog
+Footer — column: Legal
+Terms
+Privacy
+EULA
+Footer — bottom row
+© 2026 Parasolv. All rights reserved.
+Page: Landing (index.html)
+Hero
+Eyebrow tag
+Windows + MacOS
+Headline
+Welcome to the ultimate sun shadow analysis toolbox for SketchUp
+Lede
+Parasolv is a full suite of tools to generate fast, accurate, visually compelling shadow studies without ever leaving SketchUp. Incredibly powerful, highly customizable, intuitively organized.
+CTA buttons
+Primary: Start free trial
+Secondary: See features
+Credibility sub-line (under CTA)
+[remove the Credibility sub-line, too cluttered]
+Hero image caption
+Screenshot: Parasolv Advanced Mode with shadow-fan overlay on a mid-rise massing
+Social-proof strip — “In practice”
+Eyebrow
+Parasolv in Practice
+Firm names (replace with real names)
+Prevision Design
+FastCast
+Agency line (replace bracketed names with real agencies)
+Parasolv has been developed over a decade as the in-house software for Prevision Design and Fastcast and served as the engine for shadow studies in dozens of municipalities from California to Texas to New York.  After years of internal development and innovation, Parasolv is now being offered publicly for the first time.
+Feature grid — “What you get”
+Section eyebrow / heading
+Parasolv features
+Every tool a shadow study needs, all available inside SketchUp.
+Card 1 — Intuitive scenario based setup
+Parasolv works by learning what shadow conditions you want to compare—from a city neighborhood before and after a new tower to a backyard before and after a second story addition. With simple, intuitive setup options you will be ready to go in minutes. 
+Card 2 — Incredible Flexibility
+Which days do you want to study?  Which daylight hours are important to you? Want to study the full year, or just a single season?  Parasolv can accommodate whatever parameters your study needs. 
+Card 3 — Time Step Graphics
+Generate an image series showing the movement of shadows over time, with color coding to clearly differentiate the new shadows from existing ones.
+Card 4 — Shadow Aggregates
+See the full range of locations where shadows fall across any day, season, or even a full year — all layered into one informative and visually stunning graphic, color coded to show the range of shadow durations.
+Card 5 — Quantitative Analysis
+Need to know detailed information about the effects of shadow on specific area such as a city park or a bedroom window?  Just assign it as a receptor and Parasolv can generate a full and customizable impact report.
+Card 6 — PV Assessment (beta)
+Evaluate the effect of shadow on photovoltaic installations using historical solar output data from select systems to gain a real-world understanding of the .
+Card 7 — Shadow Shaper (beta)
+Test, evaluate and refine massing volumes and see their shadow effects on any area that may be sensitive to shadow.  A powerful design and diagnostic tool.  
+Card 8 — Advanced Workflow Tools
+Advanced tools to expedite workflows for large projects: Batch Processing to sequence multiple outputs to run concurrently and Mask Mode which allows multiple processes to leverage the same shadow data for greater speed and efficiency.
+Storytelling row 1 — Shadow Fan
+Eyebrow
+Shadow Fan
+Heading
+See the whole day in one glance.
+Body
+The Shadow Fan visualization overlays shadow positions across a chosen time range onto your model. Check solar access on a public space, sun-hour compliance on a neighboring window, or seasonal exposure on a PV array — without rendering a single frame.
+CTA
+Explore Shadow Fan
+Image caption
+Screenshot: Shadow Fan across Dec 21 showing hourly envelope bands
+Storytelling row 2 — Receptors & Results
+Eyebrow
+Receptors & Results
+Heading
+Data you can put in a report.
+Body
+Tag neighboring buildings, open space, or individual facades as receptors. Parasolv computes sun-hours, shadow-hours, and overshadowing metrics — then exports clean CSVs for planning submissions.
+CTA
+See result outputs
+Image caption
+Screenshot: Receptor panel with per-receptor sun-hour breakdown + gradient overlay
+Storytelling row 3 — Batch & Envelope
+Eyebrow
+Batch & Envelope
+Heading
+For when one study isn’t enough.
+Body
+The Studio tier adds batch processing and design-envelope generation — so you can explore dozens of massing options, or back-solve the largest building the site can support without overshadowing its neighbors.
+CTA
+Studio workflows
+Image caption
+Screenshot: Design envelope solid generated from shadow constraints
+Closing CTA
+Heading
+Ready to try it?
+Body
+Download the plugin, run a shadow study on your own model, and decide from there. No card required for the free Lite tier.
+Buttons
+Primary: See pricing
+Secondary: Quickstart guide
+Page: Features (features.html)
+Page header
+Eyebrow
+Features
+Headline
+Everything Parasolv does.
+Lede
+Each module below corresponds to a panel in the plugin. Tier badges show where each capability lives.
+Module 1 — Classifier & Analysis Settings
+Eyebrow
+Setup
+Heading
+Classifier & Analysis Settings
+Body
+Tag model entities as sources (shadow casters) or receptors (the surfaces you care about). Configure location, date ranges, and grid resolution once — Parasolv remembers it for the rest of your study.
+Tier badges
+Lite · Pro · Studio
+Module 2 — Shadow Fan & Graphics
+Eyebrow
+Shadow Analysis
+Heading
+Shadow Fan & Graphics
+Body
+The core of the plugin. Sweep the sun across any day or season and see the shadow envelope live on your model. Tune gradient, opacity, and banding from the Graphics panel without leaving the workflow.
+Tier badges
+Pro · Studio
+Module 3 — PV Assessment
+Eyebrow
+Solar Impact
+Heading
+PV Assessment
+Body
+Evaluate photovoltaic potential on any face using the same solar model as your shadow studies. Great for early-stage feasibility on roofs, facades, and canopies.
+Tier badges
+Pro · Studio
+Module 4 — Batch & Mask Mode
+Eyebrow
+Processing
+Heading
+Batch & Mask Mode
+Body
+Batch runs a queue of configurations end-to-end. Mask Mode hides non-essential geometry during analysis to speed up heavy models. Studio users can schedule batches to run overnight.
+Tier badges
+Pro (Mask only) · Studio (full Batch)
+Module 5 — Design Envelope Generation
+Eyebrow
+Design Tools
+Heading
+Design Envelope Generation
+Body
+Back-solve the largest volume a site can support without overshadowing defined receptors. Export the envelope as a SketchUp group for massing studies and feasibility reports.
+Tier badges
+Studio
+Module 6 — Scenario Management & CSV Export
+Eyebrow
+Results
+Heading
+Scenario Management & CSV Export
+Body
+Layer variants on top of a baseline. Compare receptor-level metrics at a glance, then export structured CSVs ready for planning submissions, compliance reports, or client markdown.
+Tier badges
+Pro (up to 5) · Studio (unlimited)
+Closing CTA
+Heading
+Pick the tier that fits your practice.
+Body
+Lite is free. Pro and Studio include a 14-day trial.
+Button
+See pricing
+Page: Pricing (pricing.html)
+Page header
+Eyebrow
+Pricing
+Headline
+One tool, three ways to use it.
+Lede
+Prices shown in USD. Cancel anytime. Payments processed by Lemon Squeezy — VAT and sales tax handled for you.
+Disclaimer
+Indicative pricing — final figures confirmed at checkout.
+Tier 1 — Lite
+Audience
+Architects & students
+Name / price
+Lite — $0 / forever
+Tagline
+Get a feel for the plugin on real projects. No card required.
+Features included
+Classifier & Setup
+Single-day shadow study
+Lite UI mode
+1 scenario, in-viewport only
+Features excluded
+No CSV export
+No PV, batch, or envelope
+CTA
+Download free
+Tier 2 — Pro (featured)
+Featured pill
+Most popular
+Audience
+Practicing architects & urban designers
+Name / price
+Pro — $29 / month
+Tagline
+Or $290/year — save two months. 14-day free trial.
+Features included
+Everything in Lite
+Full Shadow Fan & Graphics
+PV Assessment
+Mask Mode
+Up to 5 scenarios
+CSV export
+Advanced UI mode
+Email support
+CTA
+Start 14-day trial
+Tier 3 — Studio
+Audience
+Consultants & studios
+Name / price
+Studio — $79 / month
+Tagline
+Or $790/year. 14-day free trial.
+Features included
+Everything in Pro
+Batch Processing
+Design Envelope generation
+Unlimited scenarios
+Scenario comparison tools
+Methodology & compliance docs
+Priority support
+Studio quickstart track
+CTA
+Start 14-day trial
+Comparison table headers
+Feature · Lite · Pro · Studio
+Rows (feature name)
+Classifier & Setup
+Single-day shadow study
+Full Shadow Fan (any range)
+Graphics / gradient overlays
+PV Assessment
+Mask Mode
+CSV export
+Scenarios — Lite: 1, Pro: 5, Studio: Unlimited
+Batch Processing
+Design Envelope generation
+Scenario comparison — Pro: Manual, Studio: Built-in
+Support — Lite: Community, Pro: Email, Studio: Priority
+FAQ section
+Eyebrow / Heading
+FAQ
+Common questions.
+Q1
+Which SketchUp version does Parasolv support?
+A1
+SketchUp 2026 and later on both Windows and macOS (Apple Silicon). Older versions are not supported.
+Q2
+How does billing work?
+A2
+Subscriptions are billed monthly or annually via Lemon Squeezy. Cancel anytime from the customer portal — you keep access until the end of the billing period.
+Q3
+Can I use one license on multiple machines?
+A3
+Each subscription covers up to two machines (e.g. office desktop + laptop) for the same user. Team plans are available — contact us.
+Q4
+Is there a student or academic discount?
+A4
+The Lite tier is free for everyone. Academic discounts on Pro and Studio are available on request with proof of enrollment.
+Q5
+Do you offer refunds?
+A5
+14-day free trials on Pro and Studio let you evaluate before paying. If something goes wrong after that, get in touch — we’ll sort it out.
+Q6
+Can I upgrade or downgrade?
+A6
+Yes, at any time. Pro-rata adjustments are handled automatically by Lemon Squeezy.
+Page: Quickstart (quickstart.html)
+Page header
+Eyebrow
+Quickstart
+Headline
+From install to first study in 15 minutes.
+Lede
+Pick the track that fits you. Architect is written for anyone comfortable in SketchUp. Studio dives deeper into methodology and advanced workflows.
+Track toggle labels
+Architect track
+Studio track
+Architect track
+Step 01
+Install the plugin
+Download Parasolv from your account page, double-click the .rbz, and restart SketchUp. The Parasolv panel appears in the Extensions menu.
+Screenshot: SketchUp extensions menu with Parasolv highlighted
+Step 02
+Set your location & date
+Open the Setup panel, confirm the model location, and choose the day (or range) you want to analyze. Parasolv uses SketchUp’s native geolocation so you don’t need to re-enter it.
+Screenshot: Setup panel with location + date selector
+Step 03
+Classify your model
+Tag buildings and obstructions as sources, and the surfaces you care about (neighboring facades, public space, gardens) as receptors. Think of it as telling the plugin “what’s casting shadow” vs. “what you’re measuring.”
+Screenshot: Classifier panel with entity list + colored preview
+Step 04
+Run your first study
+Hit Run. Shadow Fan overlays appear on the model within seconds for a single day; a full-year study takes a minute or two depending on receptor count.
+Screenshot: Model with live Shadow Fan overlay
+Step 05
+Read the results
+The Results panel lists each receptor with sun-hours and shadow-hours. The gradient overlay on the model shows where exposure is highest and lowest at a glance.
+Screenshot: Results panel with receptor table + gradient legend
+Step 06
+Export for your report
+Pro and Studio tiers export CSVs ready for planning submissions or client decks. Lite users can screenshot the viewport overlay.
+Screenshot: CSV preview with per-receptor metrics
+Studio track
+Step 01
+Grid resolution & sampling
+Studio users should tune grid resolution before running compliance studies. As a rule of thumb: 0.25 m for facade receptors where local planning guidance requires sub-metre accuracy, 1.0 m for open-space studies. See the methodology reference for per-jurisdiction notes.
+Screenshot: Analysis Settings with grid resolution + timestep controls
+Step 02
+Batch configuration
+Queue multiple massing variants in one run. Each entry can override the source set, date range, or envelope constraints. Batches serialize to JSON — check them into your project repo for reproducibility.
+Screenshot: Batch configuration JSON with queued scenarios
+Step 03
+Design Envelope workflow
+Define the shadow constraint (e.g. “≥ 2 hrs sun on Mar 21, 10:00–16:00, on this facade”), then generate the maximum-buildable volume that satisfies it. The result is a SketchUp solid you can union with your site boundary for developable-area studies.
+Screenshot: Envelope generation with constraint dialog
+Step 04
+Scenario comparison
+Layer any number of scenarios over a baseline. The comparison view highlights deltas per receptor — useful for planning appeals where you need to demonstrate that a scheme does not degrade existing conditions.
+Screenshot: Scenario diff view with +/- deltas per receptor
+Step 05
+PV assessment methodology
+PV output estimates use clear-sky irradiance combined with the Parasolv solar model. Calibrate against TMY data for your region if you need compliance-grade numbers; otherwise the default profile is good for feasibility-stage estimates.
+Screenshot: PV surface heatmap with irradiance legend
+Step 06
+CSV schema & automation
+Exported CSVs follow a documented schema: receptor_id, date, sun_hours, shadow_hours, met_criteria. Hook them into Excel, Grasshopper, or Python for bespoke reporting pipelines.
+Screenshot: CSV schema reference with column definitions
+Closing CTA
+Heading
+Stuck somewhere?
+Body
+Full documentation is available — or reach out if you’re on Pro or Studio.
+Buttons
+Secondary: Read the docs
+Primary: Contact support
+Page: Docs (docs.html)
+Page header
+Eyebrow
+Documentation
+Headline
+Everything you need to master Parasolv.
+Lede
+Reference material, methodology notes, and troubleshooting guides. Full docs are under development — the sections below sketch the structure.
+Doc cards (6)
+Card 1
+Getting started — Install & first study
+Platform requirements, plugin installation, account setup, and a walkthrough of your first shadow analysis.
+Button: Read
+Card 2
+Reference — Panel by panel
+Every control in every panel — Setup, Classifier, Shadow Fan, Graphics, PV, Batch, Envelope, Results.
+Button: Coming soon
+Card 3
+Methodology — The solar model
+How Parasolv computes shadow geometry and irradiance. Includes calibration notes and jurisdiction-specific guidance.
+Button: Coming soon
+Card 4
+Workflows — Compliance studies
+BRE 209, APP0301, and local planning guidance — how to structure a Parasolv study that satisfies each standard.
+Button: Coming soon
+Card 5
+Reference — CSV schema
+Column-by-column definition of exported CSVs, with Python and Excel examples.
+Button: Coming soon
+Card 6
+Troubleshooting — Common issues
+Model performance, platform-specific quirks, plugin logs, and how to file an effective bug report.
+Button: Coming soon
+Closing CTA
+Heading
+Can’t find what you need?
+Body
+Email support is included on Pro. Priority support on Studio.
+Button
+Contact support
+Page: Checkout mock (checkout.html)
+Page background
+Eyebrow
+Checkout
+Headline
+You’ve selected [TIER].
+Body
+This is a mock of the Lemon Squeezy checkout overlay. In production, clicking a pricing CTA opens the overlay on top of the pricing page — this static page shows what that experience will look like.
+Lemon Squeezy overlay panel
+Brand line
+🍋 Lemon Squeezy secure checkout
+Panel title (dynamic)
+Lite: Parasolv Lite — Free download
+Pro: Parasolv Pro — Monthly
+Studio: Parasolv Studio — Monthly
+Subtitle
+14-day free trial. Cancel anytime.
+Line items
+Parasolv [Tier] subscription — [Price]
+VAT (handled by Lemon Squeezy) — Calculated at next step
+Due today — $0.00
+Form field labels
+Email
+Card number
+Expiry
+CVC
+Country
+Pay button (dynamic)
+Lite: Download free
+Pro / Studio: Start free trial
+Fine print
+You won’t be charged until your trial ends. Powered by Lemon Squeezy — merchant of record for Parasolv Ltd.
