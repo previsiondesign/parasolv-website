@@ -41,7 +41,7 @@ Browser pane config for this is in `.claude/launch.json`, gitignored.)
    earlier — the deploy fails when the zone isn't in the account.
 5. Then continue with LAUNCH_PLAN §4A2–A3 (`api.parasolv.com`, Polar webhook)
    and set the api Worker's `ACTIVATE_URL` to
-   `https://parasolv.com/match/activate.html`.
+   `https://parasolv.com/match/activate`.
 
 Landmine carried over from bermlabs.com: use **zone routes**, not
 `custom_domain`, if the imported DNS records for `@`/`www` are proxied.
