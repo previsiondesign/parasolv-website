@@ -11,10 +11,12 @@
   // dashboard; the Worker name MUST equal "parasolv" below) or with
   // `npx wrangler deploy`. Paths listed in .assetsignore are never uploaded.
   //
-  // DOMAIN: the "routes" block only works once the parasolv.com zone is in the
-  // Cloudflare account (LAUNCH_PLAN §3 Phase 2). Until then deploy with routes
-  // commented out and preview at parasolv.<account>.workers.dev; afterwards
-  // uncomment, push, and the Worker takes over parasolv.com at the edge.
+  // DOMAIN: zone routes (not custom_domain) because the zone carries proxied
+  // A/CNAME records for @ and www imported from Wix. The Worker intercepts at
+  // the edge and the Wix origin is never reached. If those records are ever
+  // deleted, switch to {"pattern": "parasolv.com", "custom_domain": true}.
+  // Zone added to Cloudflare 2026-09-09; a build that runs before the zone is
+  // Active fails on the routes step — just retry it after activation.
   "name": "parasolv",
   "compatibility_date": "2026-09-09",
   "workers_dev": true,
@@ -22,9 +24,9 @@
     "directory": ".",
     "not_found_handling": "404-page",
     "html_handling": "auto-trailing-slash"
-  }
-  // ,"routes": [
-  //   { "pattern": "parasolv.com/*",     "zone_name": "parasolv.com" },
-  //   { "pattern": "www.parasolv.com/*", "zone_name": "parasolv.com" }
-  // ]
+  },
+  "routes": [
+    { "pattern": "parasolv.com/*",     "zone_name": "parasolv.com" },
+    { "pattern": "www.parasolv.com/*", "zone_name": "parasolv.com" }
+  ]
 }
