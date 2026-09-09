@@ -1,0 +1,9 @@
+# viewmatchpro.com is retired in favor of bermlabs.com (Parasolv rebrand).
+# Order matters — these must stay reachable, so they come before the catch-all:
+#   latest_version.txt  the plugin's update check (main.rb) polls it
+#   activate.html       the license-key email (functions/webhook/polar.js) links to it
+# /webhook/polar is a Pages Function and bypasses _redirects entirely.
+# To bring the site back, delete this file (pages are all still in the repo).
+/latest_version.txt /latest_version.txt 200
+/activate.html /activate.html 200
+/* https://bermlabs.com/ 301

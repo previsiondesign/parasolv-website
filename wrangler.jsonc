@@ -1,0 +1,30 @@
+{
+  // parasolv.com — the Parasolv product-family site, served as static assets
+  // by a Cloudflare Worker. Same pattern as bermlabs.com (berm-labs repo).
+  //
+  //   /          family landing (index.html)
+  //   /shadow/   Parasolv Shadow
+  //   /match/    Parasolv Match
+  //   /assets/   shared design system (styles, icon)
+  //
+  // No build step. Deploy with Workers Builds (connect this repo in the
+  // dashboard; the Worker name MUST equal "parasolv" below) or with
+  // `npx wrangler deploy`. Paths listed in .assetsignore are never uploaded.
+  //
+  // DOMAIN: the "routes" block only works once the parasolv.com zone is in the
+  // Cloudflare account (LAUNCH_PLAN §3 Phase 2). Until then deploy with routes
+  // commented out and preview at parasolv.<account>.workers.dev; afterwards
+  // uncomment, push, and the Worker takes over parasolv.com at the edge.
+  "name": "parasolv",
+  "compatibility_date": "2026-09-09",
+  "workers_dev": true,
+  "assets": {
+    "directory": ".",
+    "not_found_handling": "404-page",
+    "html_handling": "auto-trailing-slash"
+  }
+  // ,"routes": [
+  //   { "pattern": "parasolv.com/*",     "zone_name": "parasolv.com" },
+  //   { "pattern": "www.parasolv.com/*", "zone_name": "parasolv.com" }
+  // ]
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Photo guidelines — Parasolv Match</title>
+<meta name="description" content="Which photos work with Parasolv Match, and which edits are safe: color and exposure are fine, geometry changes and metadata stripping are not.">
+<link rel="icon" href="../assets/parasolv_icon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<div class="wrap doc">
+  <a class="back" href="./">← Back to Parasolv Match</a>
+  <h1>Photo guidelines</h1>
+  <p class="muted">Parasolv Match is driven by the photo's embedded EXIF metadata — focal length, GPS, heading, tilt and capture time — which describes the <strong>geometry of the original frame</strong>. The image straight from the camera is always the safe choice. But "unedited" is stricter than strictly necessary; here's the real rule.</p>
+
+  <h2>The real rule</h2>
+  <p><strong>Don't change the geometry, and keep the metadata.</strong> Edits that only change pixel <em>values</em> (color, exposure) leave the match intact. Edits that change pixel <em>positions</em> (cropping, straightening, lens correction) silently break the agreement between the image and its EXIF — even when the EXIF survives the save.</p>
+
+  <h2>✓ Safe edits (metadata kept, geometry untouched)</h2>
+  <ul>
+    <li>Exposure, white balance, curves, contrast, saturation, clarity / dehaze</li>
+    <li>Sharpening and noise reduction</li>
+    <li>Small spot healing / dust removal</li>
+    <li>Converting RAW/DNG to JPEG — <em>if</em> your exporter keeps the metadata (Photoshop "Save As" and Lightroom Export with metadata enabled do; see the RAW caution below)</li>
+  </ul>
+
+  <h2>✗ Breaks the match (even though the EXIF may survive)</h2>
+  <ul>
+    <li><strong>Cropping</strong> — the recorded focal length describes the original framing</li>
+    <li><strong>Straightening / rotate-to-level</strong>, perspective or keystone correction</li>
+    <li><strong>Lens / distortion correction</strong>, including automatic profile corrections</li>
+    <li>Panorama stitching, multi-frame HDR merges, generative fill / expand</li>
+  </ul>
+
+  <h2>✗ Strips the metadata entirely</h2>
+  <ul>
+    <li>"Save for Web" and most social-media, messaging and email "optimized" exports</li>
+    <li>Screenshots of a photo</li>
+    <li>Most online converter / compressor sites</li>
+  </ul>
+
+  <div class="note"><strong>RAW caution.</strong> Raw processors (Camera Raw, Lightroom and phone raw pipelines) often apply <strong>lens profile corrections by default</strong> when developing a RAW or DNG — for many mirrorless and phone lenses the correction is built in and easy to miss. A "color-only" raw edit can therefore still change the geometry. If you develop from RAW for Parasolv Match, disable profile / geometry corrections and any auto-crop — or simpler, shoot RAW+JPEG and give Parasolv Match the out-of-camera JPEG.</div>
+
+  <h2>How you'll know</h2>
+  <p>Parasolv Match checks the metadata it needs the moment you select a photo — the confirm screen shows exactly which tags were found (focal length, GPS, orientation). If an edit stripped something, you'll see it immediately. What no software can detect is a <em>silent geometry change</em> with intact EXIF — that's why the rules above are about geometry, not about editing in general.</p>
+
+  <p class="muted" style="margin-top:28px">Questions? <a href="mailto:support@parasolv.com">support@parasolv.com</a></p>
+</div>
+</body>
+</html>

@@ -3,166 +3,114 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Parasolv — Shadow analysis for SketchUp</title>
+  <title>Parasolv — SketchUp tools for shadow studies and photo matching</title>
+  <meta name="description" content="Parasolv is a family of SketchUp extensions from Berm Labs: Parasolv Shadow for sun-shadow analysis and Parasolv Match for photo-accurate camera matching and photomontage." />
+  <meta property="og:title" content="Parasolv — SketchUp tools for shadow studies and photo matching" />
+  <meta property="og:description" content="Parasolv Shadow for sun-shadow analysis. Parasolv Match for photo-accurate camera matching. Built for work that gets scrutinized." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://parasolv.com/" />
   <link rel="icon" type="image/svg+xml" href="assets/parasolv_icon.svg" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lexend+Deca:wght@200;300;400;500&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="assets/styles.css?v=5" />
+  <link rel="stylesheet" href="assets/styles.css?v=6" />
+  <style>
+    .product-card { display: flex; flex-direction: column; gap: 14px; padding: 32px 28px; }
+    .product-card .module-icon { width: 48px; height: 48px; font-size: 22px; margin-bottom: 4px; }
+    .product-card h2 { margin: 0; font-size: 28px; }
+    .product-card h2 .v { color: var(--teal); font-weight: 400; }
+    .product-card p { color: var(--text-dim); margin: 0; }
+    .product-card ul { list-style: none; padding: 0; margin: 4px 0 8px; flex: 1; }
+    .product-card li { padding: 5px 0 5px 22px; position: relative; font-size: 14px; }
+    .product-card li::before {
+      content: ''; position: absolute; left: 2px; top: 11px;
+      width: 10px; height: 6px; border-left: 1.5px solid var(--sage);
+      border-bottom: 1.5px solid var(--sage); transform: rotate(-45deg);
+    }
+    .product-card .cta { display: flex; gap: 10px; flex-wrap: wrap; }
+    .why { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+    @media (max-width: 820px) { .why { grid-template-columns: 1fr; } }
+    .why h3 { font-size: 17px; margin: 0 0 6px; }
+    .why p { color: var(--text-dim); font-size: 14px; margin: 0; }
+  </style>
 </head>
 <body>
 
 <header class="site-header">
   <div class="inner">
-    <a href="index.html" class="brand">
+    <a href="./" class="brand">
       <img src="assets/parasolv_icon.svg" alt="Parasolv" />
       <span>parasol<span class="v">v</span></span>
     </a>
     <input type="checkbox" id="nav-toggle" class="nav-toggle-cb" />
     <label for="nav-toggle" class="nav-toggle" aria-label="Toggle navigation"><span></span><span></span><span></span></label>
     <nav class="nav">
-      <a href="index.html" class="active">Home</a>
-      <a href="features.html">Features</a>
-      <a href="pricing.html">Pricing</a>
-      <a href="quickstart.html">Quickstart</a>
-      <a href="docs.html">Docs</a>
-      <a href="pricing.html" class="btn btn-primary">Start free trial</a>
+      <a href="shadow/">Shadow</a>
+      <a href="match/">Match</a>
+      <a href="mailto:support@parasolv.com">Support</a>
+      <a href="https://bermlabs.com">Berm Labs</a>
     </nav>
   </div>
 </header>
 
 <section class="hero">
   <div class="container inner">
-    <span class="eyebrow">Windows + MacOS</span>
-    <h1>Welcome to the ultimate<br/>sun shadow analysis<br/>toolbox for SketchUp</h1>
-    <p class="lede">Parasolv is a full suite of tools to generate fast, accurate, visually compelling shadow studies without ever leaving SketchUp. Incredibly powerful, highly customizable, intuitively organized.</p>
+    <span class="eyebrow">SketchUp extensions · Windows + macOS</span>
+    <h1>Put your model in the<br/>real world — accurately.</h1>
+    <p class="lede">Parasolv is a family of SketchUp tools for work that gets scrutinized: sun-shadow studies for planning submissions, and photo-accurate camera matching for photomontage. Everything runs inside SketchUp.</p>
     <div class="hero-cta">
-      <a href="pricing.html" class="btn btn-primary btn-lg">Start free trial</a>
-      <a href="features.html" class="btn btn-outline btn-lg">See features</a>
-    </div>
-    <div style="margin-top: 56px;">
-      <div class="ph ph-hero">Screenshot: Parasolv Advanced Mode with shadow-fan overlay on a mid-rise massing</div>
+      <a href="shadow/" class="btn btn-primary btn-lg">Parasolv Shadow</a>
+      <a href="match/" class="btn btn-outline btn-lg">Parasolv Match</a>
     </div>
   </div>
 </section>
 
-<section class="section section-dark">
+<section class="section section-dark" id="products">
   <div class="container">
-    <p class="dim text-center" style="font-size: 12px; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 16px;">Parasolv in Practice</p>
-    <div class="logo-strip">
-      <span>Prevision Design</span>
-      <span>FastCast</span>
+    <h4 class="text-center" style="margin-bottom: 28px;">The family</h4>
+    <div class="grid grid-2">
+
+      <article class="card product-card">
+        <div class="module-icon">☀</div>
+        <h2>parasol<span class="v">v</span> shadow</h2>
+        <p>The sun-shadow analysis toolbox. Generate fast, accurate, visually compelling shadow studies — shadow fans, hour-by-hour sweeps, net-new-shadow comparisons — without leaving SketchUp.</p>
+        <ul>
+          <li>NOAA-grade solar positioning for any date, time and place</li>
+          <li>Purpose-built for CEQA, Section 295 and municipal shadow reviews</li>
+          <li>Lite, Pro and Studio tiers — one plugin, no silos</li>
+        </ul>
+        <div class="cta">
+          <a href="shadow/" class="btn btn-primary">Explore Shadow</a>
+          <a href="shadow/features.html" class="btn btn-ghost">Features →</a>
+        </div>
+      </article>
+
+      <article class="card product-card">
+        <div class="module-icon">◎</div>
+        <h2>parasol<span class="v">v</span> match</h2>
+        <p>Match your SketchUp camera to any photo in seconds. True focal length, GPS placement and matching sun from the photo's own metadata — then mask foregrounds and export presentation-ready images.</p>
+        <ul>
+          <li>EXIF-accurate field of view — not eyeballed</li>
+          <li>Exterior, interior and drone photos</li>
+          <li>Photo Finish masking, blending and layered PSD export</li>
+        </ul>
+        <div class="cta">
+          <a href="match/" class="btn btn-primary">Explore Match</a>
+          <a href="match/#how" class="btn btn-ghost">How it works →</a>
+        </div>
+      </article>
+
     </div>
-    <p class="dim text-center" style="font-size: 14px; max-width: 760px; margin: 24px auto 0; line-height: 1.6;">Parasolv has been developed over a decade as the in-house software for <strong style="color: var(--text);">Prevision Design</strong> and <strong style="color: var(--text);">FastCast</strong> and served as the engine for shadow studies in dozens of municipalities from California to Texas to New York. After years of internal development and innovation, Parasolv is now being offered publicly for the first time.</p>
   </div>
 </section>
 
 <section class="section">
   <div class="container">
-    <div class="text-center mb-lg">
-      <h4>Parasolv features</h4>
-      <h2>Every tool a shadow study needs, all available inside SketchUp.</h2>
-    </div>
-    <div class="grid grid-2">
-      <div class="card card-horizontal">
-        <div class="module-icon">⚙</div>
-        <div class="card-body">
-          <h3>Intuitive scenario based setup</h3>
-          <p class="dim">Parasolv works by learning what shadow conditions you want to compare — from a city neighborhood before and after a new tower to a backyard before and after a second story addition. With simple, intuitive setup options you will be ready to go in minutes.</p>
-        </div>
-      </div>
-      <div class="card card-horizontal">
-        <div class="module-icon">◈</div>
-        <div class="card-body">
-          <h3>Incredible flexibility</h3>
-          <p class="dim">Which days do you want to study? Which daylight hours are important to you? Want to study the full year, or just a single season? Parasolv can accommodate whatever parameters your study needs.</p>
-        </div>
-      </div>
-      <div class="card card-horizontal">
-        <div class="module-icon">◴</div>
-        <div class="card-body">
-          <h3>Time Step Graphics</h3>
-          <p class="dim">Generate an image series showing the movement of shadows over time, with color coding to clearly differentiate the new shadows from existing ones.</p>
-        </div>
-      </div>
-      <div class="card card-horizontal">
-        <div class="module-icon">☀</div>
-        <div class="card-body">
-          <h3>Shadow Aggregates</h3>
-          <p class="dim">See the full range of locations where shadows fall across any day, season, or even a full year — all layered into one informative and visually stunning graphic, color coded to show the range of shadow durations.</p>
-        </div>
-      </div>
-      <div class="card card-horizontal">
-        <div class="module-icon">⌖</div>
-        <div class="card-body">
-          <h3>Quantitative Analysis</h3>
-          <p class="dim">Need to know detailed information about the effects of shadow on a specific area such as a city park or a bedroom window? Just assign it as a receptor and Parasolv can generate a full and customizable impact report.</p>
-        </div>
-      </div>
-      <div class="card card-horizontal">
-        <div class="module-icon">▦</div>
-        <div class="card-body">
-          <h3>PV Assessment <span style="font-size: 10px; color: var(--sage); letter-spacing: 1px; text-transform: uppercase; margin-left: 4px;">beta</span></h3>
-          <p class="dim">Evaluate the effect of shadow on photovoltaic installations using historical solar output data from select systems to gain a real-world understanding of the impact.</p>
-        </div>
-      </div>
-      <div class="card card-horizontal">
-        <div class="module-icon">◫</div>
-        <div class="card-body">
-          <h3>Shadow Shaper <span style="font-size: 10px; color: var(--sage); letter-spacing: 1px; text-transform: uppercase; margin-left: 4px;">beta</span></h3>
-          <p class="dim">Test, evaluate and refine massing volumes and see their shadow effects on any area that may be sensitive to shadow. A powerful design and diagnostic tool.</p>
-        </div>
-      </div>
-      <div class="card card-horizontal">
-        <div class="module-icon">⟳</div>
-        <div class="card-body">
-          <h3>Advanced Workflow Tools</h3>
-          <p class="dim">Advanced tools to expedite workflows for large projects: Batch Processing to sequence multiple outputs to run concurrently, and Mask Mode which allows multiple processes to leverage the same shadow data for greater speed and efficiency.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="section section-dark">
-  <div class="container">
-    <div class="feature-row">
-      <div>
-        <h4>Shadow Fan</h4>
-        <h2>See the whole day in one glance.</h2>
-        <p class="dim">The Shadow Fan visualization overlays shadow positions across a chosen time range onto your model. Check solar access on a public space, sun-hour compliance on a neighboring window, or seasonal exposure on a PV array — without rendering a single frame.</p>
-        <a href="features.html" class="btn btn-outline">Explore Shadow Fan</a>
-      </div>
-      <div class="ph ph-4-3">Screenshot: Shadow Fan across Dec 21 showing hourly envelope bands</div>
-    </div>
-    <div class="feature-row reverse">
-      <div>
-        <h4>Receptors &amp; Results</h4>
-        <h2>Data you can put in a report.</h2>
-        <p class="dim">Tag neighboring buildings, open space, or individual facades as receptors. Parasolv computes sun-hours, shadow-hours, and overshadowing metrics — then exports clean CSVs for planning submissions.</p>
-        <a href="features.html" class="btn btn-outline">See result outputs</a>
-      </div>
-      <div class="ph ph-4-3">Screenshot: Receptor panel with per-receptor sun-hour breakdown + gradient overlay</div>
-    </div>
-    <div class="feature-row">
-      <div>
-        <h4>Batch &amp; Envelope</h4>
-        <h2>For when one study isn't enough.</h2>
-        <p class="dim">The Studio tier adds batch processing and design-envelope generation — so you can explore dozens of massing options, or back-solve the largest building the site can support without overshadowing its neighbors.</p>
-        <a href="features.html" class="btn btn-outline">Studio workflows</a>
-      </div>
-      <div class="ph ph-4-3">Screenshot: Design envelope solid generated from shadow constraints</div>
-    </div>
-  </div>
-</section>
-
-<section class="section text-center">
-  <div class="container">
-    <h2>Ready to try it?</h2>
-    <p class="dim" style="max-width: 540px; margin: 0 auto 28px;">Download the plugin, run a shadow study on your own model, and decide from there. No card required for the free Lite tier.</p>
-    <div class="hero-cta" style="justify-content: center;">
-      <a href="pricing.html" class="btn btn-primary btn-lg">See pricing</a>
-      <a href="quickstart.html" class="btn btn-outline btn-lg">Quickstart guide</a>
+    <h4 class="text-center" style="margin-bottom: 28px;">Why Parasolv</h4>
+    <div class="why">
+      <div class="card"><h3>Accurate enough to defend</h3><p>Built as in-house software for planning consultants first. The numbers come from the photo's metadata and from published solar algorithms, and they hold up in front of a hearing.</p></div>
+      <div class="card"><h3>Never leave SketchUp</h3><p>Matching, shadow sweeps, masking and export all happen in the model. No Photoshop round-trips, no second application to finish the job.</p></div>
+      <div class="card"><h3>Made by practitioners</h3><p>A decade of daily use on real projects in California, Texas and New York before being offered publicly. Parasolv is published by <a href="https://bermlabs.com">Berm Labs</a>.</p></div>
     </div>
   </div>
 </section>
@@ -174,36 +122,32 @@
         <img src="assets/parasolv_icon.svg" alt="" style="width:24px;height:24px;" />
         <span style="font-size:18px;">parasol<span class="v">v</span></span>
       </div>
-      <p class="dim" style="font-size: 13px; max-width: 320px;">The most powerful shadow analysis platform for SketchUp.</p>
+      <p class="dim" style="font-size: 13px; max-width: 320px;">SketchUp tools for shadow studies and photo matching.</p>
     </div>
     <div>
-      <h5>Product</h5>
+      <h5>Products</h5>
       <ul>
-        <li><a href="features.html">Features</a></li>
-        <li><a href="pricing.html">Pricing</a></li>
-        <li><a href="quickstart.html">Quickstart</a></li>
-        <li><a href="docs.html">Documentation</a></li>
+        <li><a href="shadow/">Parasolv Shadow</a></li>
+        <li><a href="match/">Parasolv Match</a></li>
       </ul>
     </div>
     <div>
       <h5>Company</h5>
       <ul>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Contact</a></li>
-        <li><a href="#">Blog</a></li>
+        <li><a href="https://bermlabs.com/about.html">About Berm Labs</a></li>
+        <li><a href="mailto:support@parasolv.com">Contact support</a></li>
       </ul>
     </div>
     <div>
       <h5>Legal</h5>
       <ul>
-        <li><a href="#">Terms</a></li>
-        <li><a href="#">Privacy</a></li>
-        <li><a href="#">EULA</a></li>
+        <li><a href="match/terms.html">Terms</a></li>
+        <li><a href="match/privacy.html">Privacy</a></li>
       </ul>
     </div>
   </div>
   <div class="container footer-bottom">
-    <span>© 2026 Parasolv. All rights reserved.</span>
+    <span>© 2026 Berm Labs LLC. Parasolv is a trademark of Berm Labs LLC.</span>
   </div>
 </footer>
 

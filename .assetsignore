@@ -1,0 +1,9 @@
+# Kept in the repo but never deployed as static assets (Cloudflare Workers)
+.git
+_retired
+_copy_doc
+*.docx
+*.ai
+node_modules
+README.md
+wrangler.jsonc

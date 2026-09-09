@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Parasolv Match — Match your SketchUp camera to any photo</title>
+<meta name="description" content="A SketchUp extension for Windows & macOS that matches your camera to a reference photo in seconds — true focal length, GPS placement, shadows — then masks foregrounds and exports presentation-ready images. All without leaving SketchUp.">
+<meta property="og:title" content="Parasolv Match — Match your SketchUp camera to any photo">
+<meta property="og:description" content="Photo-accurate camera matching plus Photo Finish masking and export — the whole photo-to-exhibit workflow inside SketchUp.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://parasolv.com/match/">
+<link rel="icon" href="../assets/parasolv_icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap">
+    <a class="brand" href="./">
+      <img src="../assets/parasolv_icon.svg" alt="" style="width:22px;height:26px;opacity:.85">
+      Parasolv Match
+    </a>
+    <nav class="nav-links" id="navlinks">
+      <a href="../">All products</a>
+      <a href="#how">How it works</a>
+      <a href="#features">Features</a>
+      <a href="#finish">Photo Finish</a>
+      <a href="#faq">FAQ</a>
+      <a class="btn primary" id="nav-try" href="#how">Get Parasolv Match</a>
+    </nav>
+    <button class="nav-toggle" id="navtoggle" aria-label="Menu">☰</button>
+  </div>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <span class="badge">SketchUp 2025 / 2026 · Windows &amp; macOS</span>
+      <h1>Match your SketchUp camera to <span>any photo</span> — in seconds.</h1>
+      <p class="lead">Parasolv Match reads a photo's true focal length, GPS and orientation and stands your camera exactly where the shot was taken — exteriors, interiors and drone photos alike. Then finish the shot: mask real-world foregrounds over your model and export presentation-ready images. The entire workflow, without ever leaving SketchUp.</p>
+      <div class="hero-cta">
+        <a class="btn primary lg" id="hero-try" href="#how">Try it free →</a>
+        <a class="btn lg" href="#how">See how it works</a>
+      </div>
+      <p class="hero-note">Free download · your first view match is on us · no account needed to try</p>
+    </div>
+    <!-- Replace the two .ba-layer backgrounds with real before/after images:
+         .ba-before = the reference photo, .ba-after = the matched SketchUp view -->
+    <div class="ba" id="ba">
+      <div class="ba-layer ba-before"><span>PHOTO</span></div>
+      <div class="ba-layer ba-after" id="ba-after"><span>SKETCHUP</span></div>
+      <div class="ba-tag l">PHOTO</div>
+      <div class="ba-tag r">SKETCHUP</div>
+      <div class="ba-divider" id="ba-div"></div>
+      <div class="ba-handle" id="ba-handle">⇆</div>
+    </div>
+  </div>
+</section>
+
+<!-- WHY (pillars) -->
+<section class="wrap">
+  <div class="center" style="margin-bottom:34px">
+    <div class="eyebrow">Why Parasolv Match</div>
+    <h2>Fast to match. Accurate enough to defend.</h2>
+  </div>
+  <div class="features">
+    <div class="feature"><div class="ic">⚡</div><h3>Fast</h3><p>A camera match that used to eat an afternoon of manual orbiting takes seconds — pick the photo, confirm, done.</p></div>
+    <div class="feature"><div class="ic">◎</div><h3>Accurate</h3><p>Field of view computed from the photo's embedded focal length — not eyeballed. Built for work that gets scrutinized, from client reviews to public exhibits.</p></div>
+    <div class="feature"><div class="ic">🧰</div><h3>A complete toolset</h3><p>Match, fine-tune, pin, mask foregrounds and export final images — one workflow inside SketchUp. No Photoshop round-trips required.</p></div>
+    <div class="feature"><div class="ic">👋</div><h3>Easy</h3><p>A built-in Quick Start walks you through the whole flow, and guided placement means the first match works like the fiftieth.</p></div>
+  </div>
+</section>
+
+<!-- HOW IT WORKS -->
+<section id="how" style="background:var(--bg2); border-top:1px solid var(--border); border-bottom:1px solid var(--border)">
+  <div class="wrap">
+    <div class="center" style="margin-bottom:34px">
+      <div class="eyebrow">How it works</div>
+      <h2>Three steps, no manual orbiting</h2>
+    </div>
+    <div class="steps">
+      <div class="step"><div class="num">STEP 1</div><h3>Load your photo</h3><p>Point Parasolv Match at the original, unedited image — exterior, interior or drone shot — straight from the camera or phone.</p></div>
+      <div class="step"><div class="num">STEP 2</div><h3>It reads the EXIF</h3><p>Focal length, GPS, heading, tilt, drone elevation and capture time are decoded automatically.</p></div>
+      <div class="step"><div class="num">STEP 3</div><h3>Camera matched</h3><p>Field of view, position and sun are set and a scene is saved. Fine‑tune with live dials, a pinned reference point and a zoomed magnifier.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- FEATURES -->
+<section id="features">
+  <div class="wrap">
+    <div class="center" style="margin-bottom:34px">
+      <div class="eyebrow">Features</div>
+      <h2>Everything you need to nail the shot</h2>
+    </div>
+    <div class="features">
+      <div class="feature"><div class="ic">◎</div><h3>EXIF‑accurate</h3><p>Field of view derived from the photo's true focal length — not eyeballed.</p></div>
+      <div class="feature"><div class="ic">⌖</div><h3>GPS &amp; drone placement</h3><p>On a geolocated model the camera drops onto the exact spot — including drone shots placed from the launch point and recorded elevation.</p></div>
+      <div class="feature"><div class="ic">🏠</div><h3>Interiors too</h3><p>No GPS indoors? Guided placement matches interior photos from an approximate standing position.</p></div>
+      <div class="feature"><div class="ic">☀</div><h3>Matching shadows</h3><p>Sets the model's date &amp; time from the shot so sun and shadows line up.</p></div>
+      <div class="feature"><div class="ic">🎚</div><h3>Fine‑tune dials</h3><p>Nudge position, aim and roll with adjustable increments — and pin an aligned point so it stays locked while you refine the rest.</p></div>
+      <div class="feature"><div class="ic">🖼</div><h3>Watermark overlay</h3><p>Fade the photo over the view to align by eye, with a live zoomed magnifier for the fine work.</p></div>
+      <div class="feature"><div class="ic">✂</div><h3>Photo Finish</h3><p>Paint the photo's real foreground — trees, fences, poles — back over your model with brush and polygon masks.</p></div>
+      <div class="feature"><div class="ic">📤</div><h3>Production export</h3><p>Blend, crop and export full‑resolution JPEG, PNG, TIFF — or a layered PSD with an editable mask.</p></div>
+      <div class="feature"><div class="ic">🕘</div><h3>Camera history</h3><p>Viewpoints are recorded as you work — step back to any earlier state or save one as its own scene.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- PHOTO FINISH -->
+<section id="finish" style="background:var(--bg2); border-top:1px solid var(--border); border-bottom:1px solid var(--border)">
+  <div class="wrap">
+    <div class="center" style="margin-bottom:14px">
+      <div class="eyebrow">New — Photo Finish</div>
+      <h2>From matched view to finished image — still inside SketchUp</h2>
+      <p class="muted" style="max-width:640px; margin:10px auto 30px">A matched camera is half the job. Photo Finish composites your model INTO the photo: real foreground objects pass in front of the model, edges blend, and the result exports at the photo's full resolution.</p>
+    </div>
+    <div class="steps">
+      <div class="step"><div class="num">MASK</div><h3>Paint the foreground</h3><p>Brush and polygon tools mask the photo's trees, fences and street furniture so they read in front of your model — with per‑edge feathering and full undo.</p></div>
+      <div class="step"><div class="num">BLEND</div><h3>Make it sit in the shot</h3><p>Line‑weight, brightness, contrast, saturation, noise and blur controls tune the model render to the photograph. Crop to standard or custom aspects.</p></div>
+      <div class="step"><div class="num">EXPORT</div><h3>Deliver at full resolution</h3><p>Flattened JPEG / PNG / TIFF, or a layered PSD that opens in Photoshop with photo, model and an editable foreground mask on separate layers.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- DEMO -->
+<section class="wrap center">
+  <div class="eyebrow">See it in action</div>
+  <h2 style="margin-bottom:28px">60‑second demo</h2>
+  <!-- Replace PLACEHOLDER with your YouTube/Vimeo video id (set in the CONFIG block below). -->
+  <div class="demo-frame" id="demo">Demo video coming soon</div>
+</section>
+
+<!-- PRICING — hidden until final prices are confirmed (2026-07-08). To restore:
+     remove hidden/display:none here, re-add the nav "Pricing" link, the student
+     FAQ row, and set real amounts in the placeholder + CONFIG below. -->
+<section id="pricing" hidden style="display:none; background:var(--bg2); border-top:1px solid var(--border); border-bottom:1px solid var(--border)">
+  <div class="wrap center">
+    <div class="eyebrow">Pricing</div>
+    <h2>Start free. Subscribe when it pays off.</h2>
+    <p class="muted" style="max-width:520px; margin:0 auto 26px">Download free and run your first full view match on us. Subscribe to keep matching.</p>
+
+    <div class="toggle" id="toggle">
+      <button data-cycle="monthly" class="on">Monthly</button>
+      <button data-cycle="annual">Annual <span class="save">2 months free</span></button>
+    </div>
+
+    <div class="plans">
+      <div class="plan">
+        <h3>Free trial</h3>
+        <div class="price">$0</div>
+        <ul>
+          <li>One full view match</li>
+          <li>All matching features</li>
+          <li>No account needed</li>
+        </ul>
+        <a class="btn" id="btn-free" href="#">Download free</a>
+      </div>
+      <div class="plan feature-plan">
+        <div class="tag">Most popular</div>
+        <h3>Parasolv Match</h3>
+        <!-- PLACEHOLDER prices — set your real monthly/annual prices here and in CONFIG -->
+        <div class="price"><span id="price"></span><small id="per"></small></div>
+        <ul>
+          <li>Unlimited view matches</li>
+          <li>Exterior, interior &amp; drone photos</li>
+          <li>Photo Finish masking &amp; layered PSD export</li>
+          <li>Windows &amp; macOS · 2 machines per license</li>
+          <li>Free updates while subscribed</li>
+          <li>Email support</li>
+        </ul>
+        <a class="btn primary" id="btn-buy" href="#">Subscribe</a>
+      </div>
+    </div>
+    <p class="muted" style="font-size:13px; margin-top:20px">Students: verified students save <strong>50%</strong> on either plan — see the <a href="#faq">FAQ</a>.</p>
+    <p class="muted" style="font-size:13px; margin-top:8px">Already subscribed? In SketchUp open the Parasolv Match menu (⋮) → <strong>Activate license…</strong> and paste your key. <a href="activate.html">Activation help →</a></p>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="faq" class="wrap">
+  <div class="center" style="margin-bottom:30px"><div class="eyebrow">FAQ</div><h2>Questions, answered</h2></div>
+  <div class="faq" id="faqlist">
+    <div class="qa"><button>What exactly does the free trial include? <span class="chev">⌄</span></button><div class="a">The full plugin, with one complete view match for free. After that, matching is gated until you subscribe — everything else (re-opening, fine-tuning an already-matched view) keeps working.</div></div>
+    <div class="qa"><button>Which SketchUp versions are supported? <span class="chev">⌄</span></button><div class="a">SketchUp 2025 and 2026, on both Windows and macOS (Apple Silicon).</div></div>
+    <div class="qa"><button>What kind of photos work best? <span class="chev">⌄</span></button><div class="a">The image straight from a camera, phone or drone is always safe. Some editing is fine too: color, exposure and sharpening adjustments keep the match intact as long as your editor preserves the metadata. What breaks a match is <em>geometry</em> — cropping, straightening, lens or perspective corrections — and exports that strip EXIF (social media, texts, "Save for Web"). Geotagged photos place the camera automatically on a geolocated model; interiors use a quick guided placement instead. <a href="photos.html">Full photo guidelines →</a></div></div>
+    <div class="qa"><button>What is Photo Finish? <span class="chev">⌄</span></button><div class="a">The built-in compositing module. After matching, you paint the photo's foreground (trees, fences, poles) back over your model with brush and polygon masks, blend the render into the photograph (line weights, color, noise, blur), crop, and export at the photo's full resolution — flattened JPEG/PNG/TIFF or a layered PSD whose foreground mask stays editable in Photoshop. It's included in every subscription.</div></div>
+    <div class="qa" hidden style="display:none"><button>Do you offer a student discount? <span class="chev">⌄</span></button><div class="a">Yes — currently enrolled students save <strong>50%</strong> on the monthly or annual plan. Email <a href="mailto:support@parasolv.com?subject=Student%20discount%20request">support@parasolv.com</a> from your school email address with proof of current enrollment (student ID or enrollment letter) and we'll send you a single-use discount code to use at checkout.</div></div>
+    <div class="qa"><button>How many computers can I use my license on? <span class="chev">⌄</span></button><div class="a">Two machines per subscription — desktop and laptop, Windows and Mac in any combination.</div></div>
+    <div class="qa"><button>Can I cancel anytime? <span class="chev">⌄</span></button><div class="a">Yes — cancel from the link in your purchase receipt. Your license stays active until the end of the period you've paid for.</div></div>
+    <div class="qa"><button>Do I need to be online to use it? <span class="chev">⌄</span></button><div class="a">Matching runs locally. Your license validates online occasionally and keeps working through short offline periods.</div></div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div>© <span id="yr"></span> Berm Labs LLC · Parasolv Match</div>
+    <div class="flinks">
+      <a href="mailto:support@parasolv.com" id="foot-mail">Support</a>
+      <a href="activate.html">Activate</a>
+      <a href="privacy.html">Privacy</a>
+      <a href="terms.html">Terms</a>
+      <a href="refund.html">Refunds</a>
+    </div>
+  </div>
+</footer>
+
+<script>
+  // ─── CONFIG: swap these in once Polar + the EW listing + the demo video exist ───
+  const CONFIG = {
+    launched: false, // PRE-LAUNCH: false = no purchases (buttons become "Notify me") + noindex banner. Flip to true at launch.
+    polarMonthly: "https://buy.polar.sh/polar_cl_XyB97ubZT1uxyQWkKWcTv8HthMIsFuHMEjen24MKcU2", // Polar checkout (monthly)
+    polarAnnual:  "https://buy.polar.sh/polar_cl_A5a7dPuCySKp90DEjUicS0k4U24fK2dQnObSw2hbIUe", // Polar checkout (annual)
+    download:     "https://github.com/PLACEHOLDER/parasolv-match/releases/latest", // .rbz (or EW listing URL)
+    ewListing:    "",                       // optional: Extension Warehouse listing URL
+    demoYouTubeId:"",                       // e.g. "dQw4w9WgXcQ" — leave "" to keep the placeholder
+    priceMonthly: "",  priceAnnual: "", // BLANKED 2026-07-08 pending final pricing (section hidden)
+    supportEmail: "support@parasolv.com"
+  };
+
+  // year
+  document.getElementById('yr').textContent = new Date().getFullYear();
+
+  // pre-launch notify link (no real purchases until launched)
+  const NOTIFY = 'mailto:support@parasolv.com?subject=' + encodeURIComponent('Notify me when Parasolv Match launches');
+
+  // download / try buttons (point at "notify" until launched)
+  const dl = CONFIG.ewListing || CONFIG.download;
+  ['nav-try','hero-try'].forEach(id=>{ const e=document.getElementById(id); if(e) e.href = CONFIG.launched ? '#pricing' : NOTIFY; });
+  document.getElementById('btn-free').href = CONFIG.launched ? dl : NOTIFY;
+
+  // pricing toggle
+  let cycle = 'monthly';
+  function applyCycle(){
+    const monthly = cycle==='monthly';
+    document.getElementById('price').textContent = monthly ? CONFIG.priceMonthly : CONFIG.priceAnnual;
+    document.getElementById('per').textContent   = monthly ? '/month' : '/year';
+    document.getElementById('btn-buy').href       = CONFIG.launched ? (monthly ? CONFIG.polarMonthly : CONFIG.polarAnnual) : NOTIFY;
+  }
+
+  // PRE-LAUNCH: banner + relabel CTAs + noindex, so nobody is charged before the plugin ships.
+  if (!CONFIG.launched) {
+    var rbt = document.createElement('meta'); rbt.name = 'robots'; rbt.content = 'noindex, nofollow';
+    document.head.appendChild(rbt);
+    var bar = document.createElement('div');
+    bar.style.cssText = 'background:#0078d4;color:#fff;text-align:center;padding:9px 14px;font-size:14px;font-weight:600;position:relative;z-index:60';
+    bar.innerHTML = '🚀 Parasolv Match is launching soon — <a href="'+NOTIFY+'" style="color:#fff;text-decoration:underline">get notified</a>';
+    document.body.insertBefore(bar, document.body.firstChild);
+    [['nav-try','Notify me'],['hero-try','Get notified'],['btn-free','Notify me'],['btn-buy','Coming soon']].forEach(function(p){
+      var e=document.getElementById(p[0]); if(e) e.textContent=p[1];
+    });
+  }
+  document.querySelectorAll('#toggle button').forEach(b=>{
+    b.addEventListener('click', ()=>{
+      document.querySelectorAll('#toggle button').forEach(x=>x.classList.remove('on'));
+      b.classList.add('on'); cycle = b.dataset.cycle; applyCycle();
+    });
+  });
+  applyCycle();
+
+  // demo embed
+  if (CONFIG.demoYouTubeId){
+    document.getElementById('demo').innerHTML =
+      '<iframe src="https://www.youtube.com/embed/'+CONFIG.demoYouTubeId+'" title="Parasolv Match demo" allowfullscreen></iframe>';
+  }
+
+  // support mail
+  document.getElementById('foot-mail').href = 'mailto:'+CONFIG.supportEmail;
+
+  // mobile nav
+  document.getElementById('navtoggle').addEventListener('click', ()=>{
+    document.getElementById('navlinks').classList.toggle('open');
+  });
+  document.querySelectorAll('#navlinks a').forEach(a=>a.addEventListener('click',()=>document.getElementById('navlinks').classList.remove('open')));
+
+  // FAQ accordion
+  document.querySelectorAll('#faqlist .qa button').forEach(b=>{
+    b.addEventListener('click', ()=> b.parentElement.classList.toggle('open'));
+  });
+
+  // before/after slider
+  (function(){
+    const ba=document.getElementById('ba'), after=document.getElementById('ba-after'),
+          div=document.getElementById('ba-div'), handle=document.getElementById('ba-handle');
+    let drag=false;
+    function set(pct){ pct=Math.max(4,Math.min(96,pct));
+      after.style.clipPath='inset(0 0 0 '+pct+'%)'; div.style.left=pct+'%'; handle.style.left=pct+'%'; }
+    function fromEvent(e){ const r=ba.getBoundingClientRect();
+      const x=((e.touches?e.touches[0].clientX:e.clientX)-r.left)/r.width*100; set(x); }
+    handle.addEventListener('mousedown',()=>drag=true);
+    handle.addEventListener('touchstart',()=>drag=true,{passive:true});
+    window.addEventListener('mouseup',()=>drag=false);
+    window.addEventListener('touchend',()=>drag=false);
+    window.addEventListener('mousemove',e=>{ if(drag) fromEvent(e); });
+    window.addEventListener('touchmove',e=>{ if(drag) fromEvent(e); },{passive:true});
+    ba.addEventListener('click',fromEvent);
+    set(50);
+  })();
+</script>
+</body>
+</html>

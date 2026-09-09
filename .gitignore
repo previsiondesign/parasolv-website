@@ -2,3 +2,4 @@ _copy_doc/node_modules/
 _copy_doc/package-lock.json
 .DS_Store
 Thumbs.db
+.claude/
