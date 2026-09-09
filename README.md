@@ -28,20 +28,16 @@ Browser pane config for this is in `.claude/launch.json`, gitignored.)
 
 ## Deploy (Cloudflare Workers, same pattern as bermlabs.com)
 
-1. Push this repo to GitHub.
-2. Cloudflare dashboard → Workers & Pages → Create → connect
-   `previsiondesign/parasolv-website`. **Worker name must be `parasolv`**
-   (matches `wrangler.jsonc`). Root directory `/`, no build command, deploy
-   command `npx wrangler deploy`.
-3. First deploy lands at `parasolv.<account>.workers.dev` — check `/`,
-   `/shadow/`, `/match/`, and a bad URL (should show 404.html).
-4. **Only after the parasolv.com zone exists in Cloudflare** (domain runbook
-   below, step C): uncomment the `routes` block in `wrangler.jsonc`, push. The
-   Worker then answers parasolv.com and www at the edge. Do not uncomment
-   earlier — the deploy fails when the zone isn't in the account.
-5. Then continue with LAUNCH_PLAN §4A2–A3 (`api.parasolv.com`, Polar webhook)
-   and set the api Worker's `ACTIVATE_URL` to
-   `https://parasolv.com/match/activate`.
+Live since 2026-09-09: Workers Build connected to this repo, Worker `parasolv`,
+no build command, deploy command `npx wrangler deploy`. Every push to `main`
+redeploys in about 30 s. Preview: https://parasolv.ap-development.workers.dev
+
+The zone routes in `wrangler.jsonc` are attached; parasolv.com answers as
+soon as the domain's nameservers point at Cloudflare (runbook step C).
+
+Note: `html_handling` serves pages extensionless and 307-redirects `.html`
+requests, so the canonical activation URL is `/match/activate` (set the api
+Worker's `ACTIVATE_URL` to `https://parasolv.com/match/activate`).
 
 Landmine carried over from bermlabs.com: use **zone routes**, not
 `custom_domain`, if the imported DNS records for `@`/`www` are proxied.
@@ -97,8 +93,8 @@ the transfer:
 1. Cloudflare → Add a domain → parasolv.com. Let it scan; keep any imported
    records DNS-only for now.
 2. Porkbun → parasolv.com → Nameservers → the two Cloudflare nameservers.
-3. When the zone shows Active, deploy step 4 above (uncomment routes), then
-   `api.parasolv.com` per LAUNCH_PLAN, then the Resend/M365 email steps
+3. When the zone shows Active, parasolv.com is live; then `api.parasolv.com`
+   per LAUNCH_PLAN, then the Resend/M365 email steps
    (`support@parasolv.com` must be an M365 alias before it goes on the site
    for real — every page here already links to it).
 
