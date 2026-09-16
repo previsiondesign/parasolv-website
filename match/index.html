@@ -214,8 +214,13 @@
   // ─── CONFIG: swap these in once Polar + the EW listing + the demo video exist ───
   const CONFIG = {
     launched: false, // PRE-LAUNCH: false = no purchases (buttons become "Notify me") + noindex banner. Flip to true at launch.
-    polarMonthly: "https://buy.polar.sh/polar_cl_XyB97ubZT1uxyQWkKWcTv8HthMIsFuHMEjen24MKcU2", // Polar checkout (monthly)
-    polarAnnual:  "https://buy.polar.sh/polar_cl_A5a7dPuCySKp90DEjUicS0k4U24fK2dQnObSw2hbIUe", // Polar checkout (annual)
+    // Checkout links, Berm Labs org, created 2026-09-15. What was here before belonged
+    // to the RETIRED viewmatch-pro org and was dead. Both send the buyer to
+    // /match/activate on success. A third link exists for the non-renewing One Month
+    // product (LAUNCH_PLAN section 6): nothing on this page offers it yet, which is an
+    // open question rather than an oversight.
+    polarMonthly: "https://buy.polar.sh/polar_cl_rgtyCrXlfJ9UpsYaPdwoCk7P98qfIw6GpNYfW3dCaVa", // Parasolv Match - Monthly (auto-renew)
+    polarAnnual:  "https://buy.polar.sh/polar_cl_jq9FFO6q7yzTZOvQsEQt1AdrBKRVDpTqpS81G1kvOKK", // Parasolv Match - Annual (auto-renew)
     download:     "https://github.com/PLACEHOLDER/parasolv-match/releases/latest", // .rbz (or EW listing URL)
     ewListing:    "",                       // optional: Extension Warehouse listing URL
     demoYouTubeId:"",                       // e.g. "dQw4w9WgXcQ" — leave "" to keep the placeholder
