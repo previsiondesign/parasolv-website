@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Release notes — Parasolv Match</title>
+<!-- LAUNCH MORNING: delete the robots tag and the draft note below. This page
+     is staged unlinked; nothing on the site points at it until launch. -->
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="../assets/parasolv_icon.svg" type="image/svg+xml">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<div class="wrap doc">
+  <a class="back" href="./">← Back to Parasolv Match</a>
+  <h1>Release notes</h1>
+  <p class="muted">Current version: <strong>1.0.0</strong> · Windows · SketchUp 2025 and 2026 · <a href="download/">Download</a></p>
+  <p class="muted" id="draft"><strong>Draft.</strong> This page is unlinked until launch; the 1.0.0 entry is finalised on release day.</p>
+
+  <!-- TODO (Thu 9/24): set the date; confirm the known-limitations list against the final RC. -->
+  <h2>1.0.0 — <span id="rel-date">[release date]</span></h2>
+  <p>First public release. Parasolv Match stands your SketchUp camera where a photo was taken, then gives you the tools to fine-tune the match and composite the model into the photo.</p>
+
+  <h3>Matching</h3>
+  <ul>
+    <li><strong>Three photo types, chosen up front.</strong> Exterior photos place the camera at the photo's GPS point on the terrain, at eye height, facing the recorded direction. Interior photos set the lens at the viewpoint you orbit to, with no GPS needed. Drone photos can mark the launch point on the terrain so the recorded relative altitude lands the camera at the right height.</li>
+    <li><strong>True focal length.</strong> The field of view comes from the photo's EXIF data, with the sensor and crop accounted for, so the perspective matches before you touch anything.</li>
+    <li><strong>Shadows to match.</strong> On a geolocated model the photo's timestamp sets the shadow time.</li>
+    <li>Photos with no GPS, no orientation tag, or unusual focal lengths are handled with a prompt rather than a failure.</li>
+  </ul>
+
+  <h3>Camera controls</h3>
+  <ul>
+    <li>Three dials — point, move, roll — with adjustable increments, plus a drag-to-aim tool in the viewport.</li>
+    <li><strong>Intuitive Movement</strong> moves the picture the way the button points; accurate Higher / Lower keeps vertical moves true to the camera.</li>
+    <li><strong>Pin</strong> a model point to the photo and adjust around it; <strong>roll lock</strong> keeps the horizon level while you work.</li>
+    <li><strong>Magnifier</strong> for close comparison at 2× to 8×, in a fast mode that refreshes as you nudge and a precise mode for exact pixels.</li>
+    <li>On-screen camera data — height above grade, position, offsets, roll and field of view — drawn in the viewport while you tune.</li>
+    <li><strong>Place / Point Camera Manually</strong>: two clicks on an overhead view set a new camera position and bearing, with every matched camera's view cone drawn live. Interior scenes get a temporary section cut so the ceiling stays out of the way.</li>
+  </ul>
+
+  <h3>Camera History</h3>
+  <ul>
+    <li>Every viewpoint you settle on is recorded; click one to return to it. Star the ones worth keeping.</li>
+    <li>Save any viewpoint as a separate scene, which inherits the photo, its type and the recorded lens.</li>
+  </ul>
+
+  <h3>PhotoFinish</h3>
+  <ul>
+    <li>Composite the model into the photo with brush and shape masks, in hide and reveal workflows, all non-destructive and re-editable.</li>
+    <li>Swap the background or model image, keep a live pair of scenes in sync, and export to JPEG, PNG, TIFF, or a layered PSD with an editable mask.</li>
+  </ul>
+
+  <h3>Scenes you can trust</h3>
+  <ul>
+    <li>Matched scenes carry a locked camera body on their own tag; deleting one asks whether you meant it and can put everything back.</li>
+    <li>Updating a matched scene with a camera Parasolv Match did not set prompts before the match is lost; a deleted Match scene can be rebuilt from its PhotoFinish scene.</li>
+  </ul>
+
+  <h3>Licensing</h3>
+  <ul>
+    <li>Your first complete view match is free. A subscription unlocks unlimited matching; activation works on up to two computers and keeps working offline for a grace period.</li>
+  </ul>
+
+  <h3>Known limitations at launch</h3>
+  <ul>
+    <li><strong>Windows only.</strong> The macOS build follows; the Extension Warehouse listing follows after that.</li>
+    <li>The photo must be an original: many editors strip or rewrite the camera data a match depends on.</li>
+    <li>Drone placement is only as good as the altitude the aircraft recorded, which is why the launch-point mark exists.</li>
+    <!-- TODO (Thu 9/24): add anything deferred in writing during the test passes. -->
+  </ul>
+
+  <h3>Requirements</h3>
+  <ul>
+    <li>SketchUp 2025 or 2026 on Windows.</li>
+    <li>An internet connection for activation, license validation and update checks. Photos are processed locally and never uploaded.</li>
+  </ul>
+
+  <h2>Earlier versions</h2>
+  <p>1.0.0 is the first public release.</p>
+
+  <p class="muted">Questions or something broken? <a href="mailto:support@parasolv.com">support@parasolv.com</a> · <a href="eula.html">EULA</a> · <a href="./">parasolv.com/match</a></p>
+</div>
+</body>
+</html>

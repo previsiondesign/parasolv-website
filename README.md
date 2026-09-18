@@ -105,7 +105,9 @@ the transfer:
 - `match/terms.html`, `privacy.html`, `refund.html` are templates with
   `[DATE]` placeholders; attorney review per LAUNCH_PLAN. Shadow links to the
   Match copies for now.
-- `match/index.html` CONFIG still has a placeholder download URL.
+- `match/download/` (landing page) and `match/release-notes.html` are staged unlinked
+  with a noindex tag and a draft note; launch morning removes both. The .rbz goes in
+  `match/download/` and must stay under 25 MiB (Cloudflare's static-asset cap).
 - Screenshot placeholders throughout Shadow; before/after images in Match.
 - This repo is **public** on GitHub. It contains the site copy .docx and the
   `_copy_doc` tooling; fine for a marketing site, but keep secrets and
