@@ -142,7 +142,7 @@
   <div class="wrap center">
     <div class="eyebrow">Pricing</div>
     <h2>Start free. Subscribe when it pays off.</h2>
-    <p class="muted" style="max-width:520px; margin:0 auto 26px">Download free and run your first full view match on us. Subscribe to keep matching.</p>
+    <p class="muted" style="max-width:520px; margin:0 auto 26px">Download free and run your first full view match on us. Subscribe to keep matching, or buy a single month with no renewal.</p>
 
     <div class="toggle" id="toggle">
       <button data-cycle="monthly" class="on">Monthly</button>
@@ -175,9 +175,24 @@
         </ul>
         <a class="btn primary" id="btn-buy" href="#">Subscribe</a>
       </div>
+      <!-- The non-renewing option (LAUNCH_PLAN section 1, "billing = hybrid"): a
+           third card, decided 2026-09-18, so auto-renewal is an affirmative choice
+           and Polar's silence before monthly renewals costs nobody a surprise. -->
+      <div class="plan">
+        <h3>One month, no renewal</h3>
+        <div class="price"><span id="price-onemonth"></span><small id="per-onemonth"> once</small></div>
+        <ul>
+          <li>Everything in the subscription</li>
+          <li>One calendar month from purchase</li>
+          <li>Ends on its own — nothing is charged again</li>
+          <li>Reminders 7, 3 and 1 days before it ends</li>
+          <li>Buy another month whenever you need one</li>
+        </ul>
+        <a class="btn" id="btn-onemonth" href="#">Buy one month</a>
+      </div>
     </div>
-    <p class="muted" style="font-size:13px; margin-top:20px">Students: verified students save <strong>50%</strong> on either plan — see the <a href="#faq">FAQ</a>.</p>
-    <p class="muted" style="font-size:13px; margin-top:8px">Already subscribed? In SketchUp open the Parasolv Match menu (⋮) → <strong>Activate license…</strong> and paste your key. <a href="activate.html">Activation help →</a></p>
+    <p class="muted" style="font-size:13px; margin-top:20px">Students: verified students save <strong>50%</strong> on the monthly or annual plan — see the <a href="#faq">FAQ</a>.</p>
+    <p class="muted" style="font-size:13px; margin-top:8px">Already have a key? In SketchUp open <strong>Camera → Parasolv Match → License</strong>, click <strong>Enter / Activate key…</strong> and paste it. <a href="activate.html">Activation help →</a></p>
   </div>
 </section>
 
@@ -191,7 +206,7 @@
     <div class="qa"><button>What is Photo Finish? <span class="chev">⌄</span></button><div class="a">The built-in compositing module. After matching, you paint the photo's foreground (trees, fences, poles) back over your model with brush and polygon masks, blend the render into the photograph (line weights, color, noise, blur), crop, and export at the photo's full resolution — flattened JPEG/PNG/TIFF or a layered PSD whose foreground mask stays editable in Photoshop. It's included in every subscription.</div></div>
     <div class="qa" hidden style="display:none"><button>Do you offer a student discount? <span class="chev">⌄</span></button><div class="a">Yes — currently enrolled students save <strong>50%</strong> on the monthly or annual plan. Email <a href="mailto:support@parasolv.com?subject=Student%20discount%20request">support@parasolv.com</a> from your school email address with proof of current enrollment (student ID or enrollment letter) and we'll send you a single-use discount code to use at checkout.</div></div>
     <div class="qa"><button>How many computers can I use my license on? <span class="chev">⌄</span></button><div class="a">Two machines per subscription — desktop and laptop, Windows and Mac in any combination.</div></div>
-    <div class="qa"><button>Can I cancel anytime? <span class="chev">⌄</span></button><div class="a">Yes — cancel from the link in your purchase receipt. Your license stays active until the end of the period you've paid for.</div></div>
+    <div class="qa"><button>Can I cancel anytime? <span class="chev">⌄</span></button><div class="a">Yes — cancel from the link in your purchase receipt. Your license stays active until the end of the period you've paid for. Prefer no renewal at all? The one-month option ends on its own: we email you 7, 3 and 1 days before, the plugin says so on its opening screen, and nothing is charged again unless you buy another month.</div></div>
     <div class="qa"><button>Do I need to be online to use it? <span class="chev">⌄</span></button><div class="a">Matching runs locally. Your license validates online occasionally and keeps working through short offline periods.</div></div>
   </div>
 </section>
@@ -216,11 +231,11 @@
     launched: false, // PRE-LAUNCH: false = no purchases (buttons become "Notify me") + noindex banner. Flip to true at launch.
     // Checkout links, Berm Labs org, created 2026-09-15. What was here before belonged
     // to the RETIRED viewmatch-pro org and was dead. Both send the buyer to
-    // /match/activate on success. A third link exists for the non-renewing One Month
-    // product (LAUNCH_PLAN section 6): nothing on this page offers it yet, which is an
-    // open question rather than an oversight.
+    // /match/activate on success. The third, non-renewing One Month product has its
+    // own card (decided 2026-09-18); the monthly/annual toggle never touches it.
     polarMonthly: "https://buy.polar.sh/polar_cl_rgtyCrXlfJ9UpsYaPdwoCk7P98qfIw6GpNYfW3dCaVa", // Parasolv Match - Monthly (auto-renew)
     polarAnnual:  "https://buy.polar.sh/polar_cl_jq9FFO6q7yzTZOvQsEQt1AdrBKRVDpTqpS81G1kvOKK", // Parasolv Match - Annual (auto-renew)
+    polarOneMonth:"https://buy.polar.sh/polar_cl_y1xhiYD60lt52iunZv8dvvipHWUQkx3PDSNuk2fDlZA", // Parasolv Match - One Month (non-renewing; third card, decided 2026-09-18)
     // The download landing page (install steps, release notes, the .rbz beside it).
     // Staged 2026-09-17, unlinked and noindex until launch; this value is inert
     // while launched = false, so setting it early costs nothing. The .rbz itself
@@ -230,7 +245,7 @@
     download:     "download/",
     ewListing:    "",                       // optional: Extension Warehouse listing URL
     demoYouTubeId:"",                       // e.g. "dQw4w9WgXcQ" — leave "" to keep the placeholder
-    priceMonthly: "",  priceAnnual: "", // BLANKED 2026-07-08 pending final pricing (section hidden)
+    priceMonthly: "",  priceAnnual: "", priceOneMonth: "", // BLANKED 2026-07-08 pending final pricing (section hidden); LAUNCH_PLAN section 2 lists $49 / $490 / $59
     supportEmail: "support@parasolv.com"
   };
 
@@ -253,6 +268,9 @@
     document.getElementById('per').textContent   = monthly ? '/month' : '/year';
     document.getElementById('btn-buy').href       = CONFIG.launched ? (monthly ? CONFIG.polarMonthly : CONFIG.polarAnnual) : NOTIFY;
   }
+  // the one-month card sits outside the toggle
+  document.getElementById('price-onemonth').textContent = CONFIG.priceOneMonth;
+  document.getElementById('btn-onemonth').href = CONFIG.launched ? CONFIG.polarOneMonth : NOTIFY;
 
   // PRE-LAUNCH: banner + relabel CTAs + noindex, so nobody is charged before the plugin ships.
   if (!CONFIG.launched) {
@@ -262,7 +280,7 @@
     bar.style.cssText = 'background:#0078d4;color:#fff;text-align:center;padding:9px 14px;font-size:14px;font-weight:600;position:relative;z-index:60';
     bar.innerHTML = '🚀 Parasolv Match is launching soon — <a href="'+NOTIFY+'" style="color:#fff;text-decoration:underline">get notified</a>';
     document.body.insertBefore(bar, document.body.firstChild);
-    [['nav-try','Notify me'],['hero-try','Get notified'],['btn-free','Notify me'],['btn-buy','Coming soon']].forEach(function(p){
+    [['nav-try','Notify me'],['hero-try','Get notified'],['btn-free','Notify me'],['btn-buy','Coming soon'],['btn-onemonth','Coming soon']].forEach(function(p){
       var e=document.getElementById(p[0]); if(e) e.textContent=p[1];
     });
   }
