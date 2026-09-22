@@ -22,7 +22,7 @@
   <h2>The extension</h2>
   <ul>
     <li><strong>Your photos stay local.</strong> EXIF metadata is read on your computer to match the camera; photos are not uploaded to us.</li>
-    <li><strong>License validation.</strong> To activate and validate a license, the extension sends your license key and a non-reversible machine fingerprint (a hash of basic device identifiers) to our licensing provider, <strong>Keygen</strong> (keygen.sh).</li>
+    <li><strong>License validation.</strong> To activate and validate a license, the extension sends your license key and a machine fingerprint to our licensing provider, <strong>Keygen</strong> (keygen.sh). The fingerprint is a one-way hash of your operating system platform, your computer&rsquo;s name and your operating-system account name &mdash; we receive the hash, not those values. When you first activate a computer, its name and platform are also sent in readable form, so that an activation can be identified in your account. Nothing else about your device is collected.</li>
     <li><strong>Update checks.</strong> The extension periodically checks exiftool.org for a newer version of its bundled EXIF reader and installs it when one is available, so a file is downloaded from that third-party site and not only a version number; when you choose Check for Updates it also asks our update server (api.parasolv.com) for the latest plugin version. We send no personal data in either case, but those servers see standard request metadata such as your IP address.</li>
   </ul>
 
